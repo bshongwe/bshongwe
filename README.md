@@ -1,7 +1,5 @@
 # Hi, I'm Ernest Bhekizwe Shongwe
 
-[![Hi, I'm @bshongwe](https://avatars.githubusercontent.com/u/126109055?v=4)](https://github.com/bshongwe)
-
 **JavaScript**
 **TypeScript**
 **React**
