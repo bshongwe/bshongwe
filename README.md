@@ -4,23 +4,7 @@ I'm a software engineer with a passion for full stack development. I'm currently
 
 **Skills**
 
-*JavaScript*
-
-*MongoDB,Express,React & Node.js*
-
-*MySQL*
-
-*TypeScript*
-
-*Azure*
-
-*Docker*
-
-*Kubernetes*
-
-*AWS*
-
-*Git & GitHub*
+*JavaScript* | *MongoDB,Express,React & Node.js* | *MySQL* | *TypeScript* | *Azure* | *Docker* | *Kubernetes* | *AWS* | *Git & GitHub*
 
 
 **Social Media**
