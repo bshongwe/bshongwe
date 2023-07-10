@@ -1,20 +1,20 @@
-# Hi, I'm @bshongwe
+# Hi, I'm Ernest Bhekizwe Shongwe
 
-[![Hi, I'm @bshongwe](https://avatars.githubusercontent.com/u/123456789?v=4)](https://github.com/bshongwe)
+[![Hi, I'm @bshongwe](https://avatars.githubusercontent.com/u/126109055?v=4)](https://github.com/bshongwe)
 
-![JavaScript](https://raw.githubusercontent.com/tandpfun/skill-icons/master/js.svg) **JavaScript**
-![TypeScript](https://raw.githubusercontent.com/tandpfun/skill-icons/master/ts.svg) **TypeScript**
-![React](https://raw.githubusercontent.com/tandpfun/skill-icons/master/react.svg) **React**
-![Node.js](https://raw.githubusercontent.com/tandpfun/skill-icons/master/node.svg) **Node.js**
-![Express](https://raw.githubusercontent.com/tandpfun/skill-icons/master/express.svg) **Express**
-![MongoDB](https://raw.githubusercontent.com/tandpfun/skill-icons/master/mongodb.svg) **MongoDB**
-![MySQL](https://raw.githubusercontent.com/tandpfun/skill-icons/master/mysql.svg) **MySQL**
-![Git](https://raw.githubusercontent.com/tandpfun/skill-icons/master/git.svg) **Git**
-![GitHub](https://raw.githubusercontent.com/tandpfun/skill-icons/master/github.svg) **GitHub**
-![Docker](https://raw.githubusercontent.com/tandpfun/skill-icons/master/docker.svg) **Docker**
-![Kubernetes](https://raw.githubusercontent.com/tandpfun/skill-icons/master/kubernetes.svg) **Kubernetes**
-![AWS](https://raw.githubusercontent.com/tandpfun/skill-icons/master/aws.svg) **AWS**
-![Azure](https://raw.githubusercontent.com/tandpfun/skill-icons/master/azure.svg) **Azure**
+**JavaScript**
+**TypeScript**
+**React**
+**Node.js**
+**Express**
+**MongoDB**
+**MySQL**
+**Git**
+**GitHub**
+**Docker**
+**Kubernetes**
+**AWS**
+**Azure**
 
 I'm a software engineer with a passion for full stack development. I'm currently learning Full Stack Software Engineering at ALX Africa. I'm interested in Full Stack, Back End, Front End, MERN/MEAN Stack, and I'm looking to collaborate on any projects.
 
