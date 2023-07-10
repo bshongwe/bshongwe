@@ -1,8 +1,8 @@
-# Hi, I'm Ernest Bhekizwe Shongwe
+# Hi... ✌️ I'm Ernest Bhekizwe Shongwe form Boksburg, South Africa 🇿🇦️
 
 I'm a software engineer with a passion for full stack development. I'm currently learning Full Stack Software Engineering at ALX Africa. I'm interested in Full Stack, Back End, Front End, MERN/MEAN Stack, and I'm looking to collaborate on any projects.
 
-**Skills**
+**🔩️Skills👨‍🔧️**
 
 *JavaScript* | *MongoDB,Express,React & Node.js* | *MySQL* | *TypeScript* | *Azure* | *Docker* | *Kubernetes* | *AWS* | *Git & GitHub*
 
