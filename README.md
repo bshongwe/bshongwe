@@ -1,7 +1,24 @@
-# Hi... ✌️
+# Hi...
 I'm Ernest Bhekizwe Shongwe from Boksburg, South Africa 🇿🇦️
 
-I'm a software engineer with a passion for full stack development. I'm currently learning Full Stack Software Engineering at ALX Africa. I'm interested in Full Stack, Back End, Front End, MERN/MEAN Stack, and I'm looking to collaborate on any projects.
+I'm a passionate full stack software engineer currently studying at:
+
+    ALX (@alx_africa): ALX Software Engineering (ALX SE) Programme
+    freeCodeCamp - Full Stack Legacy Certification
+    Microsoft Learn: Azure Developer Associate - Certifications
+    ClayDesk e-Learning
+    CodeRed
+    Hacker Rank
+    ... and many others
+    
+    & other online certification for AWS & DevOps related courses
+
+I'm looking to collaborate with others on any project that revolve around my stack scope. However, I am always looking into acquiring more onto my stack.
+
+# **Interest**
+### Full Stack
+    Back End | Front End | MERN/MEAN
+
 
 # **🔩️Skills👨‍🔧️**
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -22,17 +39,17 @@ I'm a software engineer with a passion for full stack development. I'm currently
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
 #
-<h6> In addition: MongoDB, Express, React & Node.js (MERN + Angular) | MySQL | Azure | Docker | Kubernetes | AWS </h6>
+<h6> In addition: MongoDB| Express | MySQL | Azure | Beanstalk | Docker | Kubernetes | AWS </h6>
 
 # <h3>**Social Media**</h3>
 
-<div class="card column left">
-  <div class="box">
+<div class="container">
+  <section>
     <a href="https://github.com/bshongwe"><i class="fab fa-github"></i>GitHub</a>
     <a href="https://www.linkedin.com/in/ernest-shongwe-31138b8b/"><i class="fab fa-linkedin"></i>LinkedIn</a>
     <a href="shongwe.bhekizwe@yahoomail.com"><i class="fab fa-yahoo"></i>Yahoo</a>
     <a href="https://twitter.com/ernest_b_shong"><i class="fab fa-twitter"></i>Twitter</a>
-  </div>
+  </section>
 </div>
 
 
