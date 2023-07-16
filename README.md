@@ -10,8 +10,6 @@ I'm a passionate full stack software engineer currently studying at:
     CodeRed
     Hacker Rank
     ... and many others
-    
-    & other online certification for AWS & DevOps related courses
 
 I'm looking to collaborate with others on any project that revolve around my stack scope. However, I am always looking into acquiring more onto my stack.
 
