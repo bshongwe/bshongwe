@@ -37,7 +37,7 @@ I'm looking towards collaborating with others on any project that revolves aroun
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
 #
-<h6> In addition: MongoDB | Express | MySQL | Azure | Beanstalk | Docker | Kubernetes | AWS </h6>
+<h6> In addition:<br> MongoDB | Express | MySQL | Azure | Beanstalk | Docker | Kubernetes | AWS </h6>
 <h6> Mocha | Chai </h6>
 
 # <h3>**Social Media**</h3>
