@@ -3,19 +3,19 @@ I'm Ernest Bhekizwe Shongwe from Boksburg, South Africa 🇿🇦️
 
 I'm a passionate full stack software engineer currently studying at:
 
-    ALX (@alx_africa): ALX Software Engineering (ALX SE) Programme
-    freeCodeCamp - Full Stack Legacy Certification
-    Microsoft Learn: Azure Developer Associate - Certifications
-    ClayDesk e-Learning
-    CodeRed
-    Hacker Rank
-    ... and many others
+    1. ALX (@alx_africa): ALX Software Engineering (ALX SE) Programme
+    2. freeCodeCamp - Full Stack Legacy Certification
+    3. Microsoft Learn: Azure Developer Associate - Certifications
+    4. ClayDesk e-Learning
+    5. CodeRed
+    6. Hacker Rank
+    ... and many others. Check my LinkedIn profile for the latest updates.
 
-I'm looking to collaborate with others on any project that revolve around my stack scope. However, I am always looking into acquiring more onto my stack.
+I'm looking towards collaborating with others on any project that revolves around my stack scope. However, I am always keen on acquiring more onto my stack, upgrading myself where and whenever possible.
 
-# **Interest**
+# **Interests**
 ### Full Stack
-    Back End | Front End | MERN/MEAN
+    Back End | Front End (Development) | MERN/MEAN | APIs | Cybersecurity Databases | Quality Assurance
 
 
 # **🔩️Skills👨‍🔧️**
@@ -37,7 +37,8 @@ I'm looking to collaborate with others on any project that revolve around my sta
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
 #
-<h6> In addition: MongoDB| Express | MySQL | Azure | Beanstalk | Docker | Kubernetes | AWS </h6>
+<h6> In addition: MongoDB | Express | MySQL | Azure | Beanstalk | Docker | Kubernetes | AWS </h6>
+<h6> Mocha | Chai </h6>h6>
 
 # <h3>**Social Media**</h3>
 
