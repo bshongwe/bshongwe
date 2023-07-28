@@ -51,10 +51,9 @@ I'm looking towards collaborating with others on any project that revolves aroun
 <img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vim/vim-original.svg" />
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kubernetes/kubernetes-plain.svg" />
-<img align="left" alt="IntelliJ" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original.svg" />
+<img align="left" alt="IntelliJ" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original.svg" /><br>
 
-#
-<h6> In addition:<br> Beanstalk | Emacs | Vi </h6>
+# <h6>**In addition:<br> Beanstalk | Emacs | Vi**</h6>
 
 # <h3>**Social Media**</h3>
 
