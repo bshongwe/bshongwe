@@ -67,10 +67,10 @@ I'm looking towards collaborating with others on any project that revolves aroun
 
 <div class="container">
   <section>
-    <a href="https://github.com/bshongwe"><i class="fab fa-github"></i>GitHub</a>
-    <a href="https://www.linkedin.com/in/ernest-shongwe-31138b8b/"><i class="fab fa-linkedin"></i>LinkedIn</a>
+    <a href="https://github.com/bshongwe"><i class="fab fa-github"><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></i></a>
+    <a href="https://www.linkedin.com/in/ernest-shongwe-31138b8b/"><i class="fab fa-linkedin"></i><img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://github.com/volusion/social-media-svg/blob/master/square/linkedin.svg" /></a>
+    <a href="https://twitter.com/ernest_b_shong"><i class="fab fa-twitter"><img align="left" alt="Twitter" width="30px" style="padding-right:10px;" src="https://github.com/volusion/social-media-svg/blob/master/square/twitter.svg"</></i></a>
     <a href="shongwe.bhekizwe@yahoomail.com"><i class="fab fa-yahoo"></i>Yahoo</a>
-    <a href="https://twitter.com/ernest_b_shong"><i class="fab fa-twitter"></i>Twitter</a>
   </section>
 </div>
 
