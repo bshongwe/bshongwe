@@ -39,6 +39,7 @@ I'm looking towards collaborating with others on any project that revolves aroun
 #
 <h6> In addition:<br> MongoDB | Express | MySQL | Azure | Beanstalk | Docker | Kubernetes | AWS </h6>
 <h6> Mocha | Chai </h6>
+<h6>VS Code | IntelliJ | Vim | Emacs | Vi</h6>
 
 # <h3>**Social Media**</h3>
 
