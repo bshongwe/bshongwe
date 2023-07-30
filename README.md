@@ -1,7 +1,7 @@
 # Hi...
 I'm Ernest Bhekizwe Shongwe from Boksburg, South Africa 🇿🇦️
 
-I'm a passionate full stack software engineer currently studying at:
+I'm a passionate full stack software engineer, currently studying at:
 
     1. ALX (@alx_africa): ALX Software Engineering (ALX SE) Programme
     2. freeCodeCamp - Full Stack Legacy Certification
