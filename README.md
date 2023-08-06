@@ -10,6 +10,7 @@ I'm a passionate full stack software engineer, currently studying at:
     5. CodeRed
     6. Hacker Rank
     7. Geeks For Geeks - Full Stack Boot Camp, Java Programming, Cloud Boot Camp
+    8. edX - Harvard CS50
     ... and many others. Check my LinkedIn profile for the latest updates.
 
 I'm looking towards collaborating with others on any project that revolves around my stack scope. However, I am always keen on acquiring more onto my stack, upgrading myself where and whenever possible.
