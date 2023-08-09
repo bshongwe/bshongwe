@@ -17,7 +17,7 @@ I'm looking towards collaborating with others on any project that revolves aroun
 
 # **Interests**
 ### Full Stack
-    Back End | Front End (Development) | MERN/MEAN | APIs | Cybersecurity | Databases | Quality Assurance
+    Back End | Front End | MERN/MEAN | APIs | Cybersecurity | Databases | Quality Assurance
 
 
 # **🔩️Skills👨‍🔧️**
