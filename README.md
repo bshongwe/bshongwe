@@ -3,7 +3,7 @@ I'm Ernest Bhekizwe Shongwe from Boksburg, South Africa 🇿🇦️
 
 I'm a passionate full stack software engineer, currently studying at:
 
-    1. ALX (@alx_africa): ALX Software Engineering (ALX SE) Programme - currently working on a large C-programme that started on the 18th of August 2023
+    1. ALX (@alx_africa): ALX Software Engineering (ALX SE) Programme - recently worked on a large, team-collaboration C-programme (printf) that started on the 18th to the 23rd of August 2023
     2. freeCodeCamp - Full Stack Legacy Certification
     3. Microsoft Learn: Azure Developer Associate - Certifications
     4. ClayDesk e-Learning
