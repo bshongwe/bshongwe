@@ -1,16 +1,16 @@
 # Hi...
-I'm Ernest Bhekizwe Shongwe from Boksburg, South Africa 🇿🇦️
-
+I'm Ernest <h4>Bhekizwe Shongwe from Boksburg, South Africa 🇿🇦️
+</h4>
 I'm a passionate full stack software engineer, currently studying at:
 
-    1. ALX (@alx_africa): ALX Software Engineering (ALX SE) Programme - recently worked on a large, team-collaboration C-programme (printf) that started on the 18th to the 23rd of August 2023
-    2. freeCodeCamp - Full Stack Legacy Certification
-    3. Microsoft Learn: Azure Developer Associate - Certifications
-    4. ClayDesk e-Learning
-    5. CodeRed
-    6. Hacker Rank
-    7. Geeks For Geeks - Full Stack Boot Camp, Java Programming, Cloud Boot Camp
-    8. edX - Harvard CS50
+    1. ALX (@alx_africa): ALX Software Engineering (ALX SE) Programme | recent project: team-collaboration C-programme printf (https://github.com/bshongwe/printf) that started on the 18th to the 23rd of August 2023 | current: completion of ALX Low Level Programming (https://github.com/bshongwe/alx-low_level_programming) module    
+    2. freeCodeCamp - Full Stack Legacy Certification | working towards completing the Quality Assurance certification    
+    3. Microsoft Learn: Azure Developer Associate - Certifications    
+    4. ClayDesk e-Learning    
+    5. CodeRed    
+    6. Hacker Rank    
+    7. Geeks For Geeks - Full Stack Boot Camp, Java Programming, Cloud Boot Camp    
+    8. edX - Harvard CS50    
     ... and many others. Check my LinkedIn profile for the latest updates.
 
 I'm looking towards collaborating with others on any project that revolves around my stack scope. However, I am always keen on acquiring more onto my stack, upgrading myself where and whenever possible.
@@ -75,6 +75,9 @@ I'm looking towards collaborating with others on any project that revolves aroun
     <a href="shongwe.bhekizwe@yahoomail.com"><i class="fab fa-yahoo"></i>Yahoo</a>
   </section>
 </div>
+
+<h6>Donate</h6>
+<p><a href="https://www.buymeacoffee.com/ebshongwe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" width="105" alt="ebshongwe" /></a></p>
 
 
 <!---
