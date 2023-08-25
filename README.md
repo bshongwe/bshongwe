@@ -29,14 +29,13 @@ I'm a passionate <strong>full stack software engineer</strong>, currently studyi
                         📌️ 0x0E. C - Structures, typedef
                         📌️ 0x0F. C - Function pointers
                         📌️ 0x10. C - Variadic functions
+                        📌️ 0x11. C - printf [Team Collaboration Project: (https://github.com/bshongwe/printf) - completed on the 22nd of August, 2023]
                 
                 📍️ System Engineering and DevOps:
                         📌️ Shell Basics
                         📌️ Shell Permissions
                         📌️ Shell I/O Redirections and Filters
                         📌️ Shell Init Files, Variables and Expansion
-
-📌️ Team Collaboration Project: Printf (https://github.com/bshongwe/printf) (completed on the 22nd of August, 2023)
 
     2. freeCodeCamp - Full Stack Legacy Certification
             Completed:
