@@ -4,11 +4,34 @@ I'm <strong>Ernest Bhekizwe Shongwe</strong> from <strong>Boksburg, South Africa
 I'm a passionate <strong>full stack software engineer</strong>, currently studying at 👨‍🎓️:
 
     1. ALX (@alx_africa): ALX Software Engineering (ALX SE) Programme
-                📌️ recent project: team-collaboration C-programme printf (https://github.com/bshongwe/printf)
-                📌️ Onboarding Module:
+            📍️ First Trimester:
+            
+                📌️ Onboarding Module (completed):
                         📌️ Getting Started: Slack, Mindsets, Map your Mind, Network, Communities...
                         📌️ Tools: Shell navigation, Emacs, Vi, Grit, Vagrant
-                📍️ System Engineering and DevOps (current module being studied, https://github.com/bshongwe/alx-low_level_programming):
+
+                📍️ Low-level programming & Algorithm - Hatching out (on-going, https://github.com/bshongwe/alx-low_level_programming):
+                        📌️ 0x00. C - Hello, World
+                        📌️ 0x01. C - Variables, if, else, while
+                        📌️ First Day of C Programming
+                        📌️ 0x02. C - Functions, nested loops
+                        📌️ 0x04. C - More functions, more nested loops
+                        📌️ 0x03. C - Debugging
+                        📌️ 0x05. C - Pointers, arrays and strings
+                        📌️ 0x06. C - More pointers, arrays and strings
+                        📌️ 0x07. C - Even more pointers, arrays and strings
+                        📌️ 0x08. C - Recursion
+                        📌️ 0x09. C - Static libraries
+                        📌️ 0x0A. C - argc, argv
+                        📌️ 0x0B. C - malloc, free
+                        📌️ 0x0C. C - More malloc, free
+                        📌️ 0x0D. C - Preprocessor
+                        📌️ 0x0E. C - Structures, typedef
+                        📌️ 0x0F. C - Function pointers
+                        📌️ 0x10. C - Variadic functions
+                        📌️ Team Collaboration Project: Printf (https://github.com/bshongwe/printf) (completed on the 22nd of August, 2023)
+                
+                📍️ System Engineering and DevOps:
                         📌️ Shell Basics
                         📌️ Shell Permissions
                         📌️ Shell I/O Redirections and Filters
