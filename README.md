@@ -30,6 +30,7 @@ I'm a passionate <strong>full stack software engineer</strong>, currently studyi
                         📌️ 0x0F. C - Function pointers
                         📌️ 0x10. C - Variadic functions
                         📌️ 0x11. C - printf [Team Collaboration Project: (https://github.com/bshongwe/printf) - completed on the 22nd of August, 2023]
+                        📌️ 0x12. C - Singly linked lists
                 
                 📍️ System Engineering and DevOps:
                         📌️ Shell Basics
