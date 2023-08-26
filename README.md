@@ -1,17 +1,18 @@
 # Hi... 🤓️
 I'm <strong>Ernest Bhekizwe Shongwe</strong> from <strong>Boksburg, South Africa</strong> 🇿🇦️
+
 An agronomist-turned-software engineer that started his journey via JavaScript
 
 I'm a passionate <strong>full stack software engineer</strong>, currently studying at 👨‍🎓️:
 
     1. ALX (@alx_africa): ALX Software Engineering (ALX SE) Programme
-            📍️ First Trimester:
-            
+        📍️ First Trimester:
+           
                 📌️ Onboarding Module (completed):
                         📌️ Getting Started: Slack, Mindsets, Map your Mind, Network, Communities...
                         📌️ Tools: Shell navigation, Emacs, Vi, Grit, Vagrant
 
-                📍️ Low-level programming & Algorithm - Hatching out (on-going, https://github.com/bshongwe/alx-low_level_programming):
+                📌️ Low-level programming & Algorithm - Hatching out (https://github.com/bshongwe/alx-low_level_programming):
                         📌️ 0x00. C - Hello, World
                         📌️ 0x01. C - Variables, if, else, while
                         📌️ First Day of C Programming
@@ -31,6 +32,8 @@ I'm a passionate <strong>full stack software engineer</strong>, currently studyi
                         📌️ 0x0F. C - Function pointers
                         📌️ 0x10. C - Variadic functions
                         📌️ 0x11. C - printf [Team Collaboration Project: (https://github.com/bshongwe/printf) - completed on the 22nd of August, 2023]
+                
+                📍️ Low-level programming & Algorithm - Data structures and Algorithms (on-going, https://github.com/bshongwe/alx-low_level_programming)
                         📌️ 0x12. C - Singly linked lists
                 
                 📍️ System Engineering and DevOps:
@@ -38,6 +41,14 @@ I'm a passionate <strong>full stack software engineer</strong>, currently studyi
                         📌️ Shell Permissions
                         📌️ Shell I/O Redirections and Filters
                         📌️ Shell Init Files, Variables and Expansion
+            
+            📍️ System engineering & DevOps
+                📍️ System engineering & DevOps - Bash
+                        📌️ 0x00. Shell, basics
+                        📌️ 0x01. Shell, permissions
+                        📌️ 0x02. Shell, I/O Redirections and filters
+                        📌️ 0x03. Shell, init files, variables and expansions
+
 
     2. freeCodeCamp - Full Stack Legacy Certification
             Completed:
@@ -46,6 +57,7 @@ I'm a passionate <strong>full stack software engineer</strong>, currently studyi
                 📌️ Front End Development Libraries certification
                 📌️ Back End Develoment and APIs certification
                 📍️ working towards completing Quality Assurance certification
+
     
     3. Microsoft Learn:
                 📌️ Azure Developer Associate - Certifications:
@@ -62,6 +74,7 @@ I'm a passionate <strong>full stack software engineer</strong>, currently studyi
                         📌️ AZ-204: Implement caching for solutions
                         📌️ Machine Learning Operations (MLOps) Challenge
                         📍️ Microsoft Azure AI Fundamentals: Get started with artificial intelligence
+
     
     4. ClayDesk e-Learning   
     
