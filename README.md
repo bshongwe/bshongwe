@@ -1,5 +1,6 @@
 # Hi... 🤓️
 I'm <strong>Ernest Bhekizwe Shongwe</strong> from <strong>Boksburg, South Africa</strong> 🇿🇦️
+An agronomist-turned-software engineer that started his journey via JavaScript
 
 I'm a passionate <strong>full stack software engineer</strong>, currently studying at 👨‍🎓️:
 
