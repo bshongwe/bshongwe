@@ -35,6 +35,7 @@ I'm a passionate <strong>full stack software engineer</strong>, currently studyi
                 
                 📍️ Low-level programming & Algorithm - Data structures and Algorithms (on-going, https://github.com/bshongwe/alx-low_level_programming)
                         📌️ 0x12. C - Singly linked lists
+                        📌️ 0x13. C - More singly linked lists
                 
                 📍️ System Engineering and DevOps:
                         📌️ Shell Basics
