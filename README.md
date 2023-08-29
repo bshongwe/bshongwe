@@ -38,6 +38,8 @@ I'm a passionate <strong>full stack software engineer</strong>, currently studyi
                         📌️ Machine Learning Operations (MLOps) Challenge
                         📍️ Microsoft Azure AI Fundamentals: Get started with artificial intelligence
 
+                📍️ (New) Foundational C# with Microsoft Certification (freeCodeCamp & Microsoft professional certification)
+
     
     4. ClayDesk e-Learning   
     
