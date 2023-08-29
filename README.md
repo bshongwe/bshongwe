@@ -13,44 +13,16 @@ I'm a passionate <strong>full stack software engineer</strong>, currently studyi
                         📌️ Tools: Shell navigation, Emacs, Vi, Grit, Vagrant
 
                 📌️ Low-level programming & Algorithm - Hatching out (https://github.com/bshongwe/alx-low_level_programming):
-                        📌️ 0x00. C - Hello, World
-                        📌️ 0x01. C - Variables, if, else, while
-                        📌️ First Day of C Programming
-                        📌️ 0x02. C - Functions, nested loops
-                        📌️ 0x04. C - More functions, more nested loops
-                        📌️ 0x03. C - Debugging
-                        📌️ 0x05. C - Pointers, arrays and strings
-                        📌️ 0x06. C - More pointers, arrays and strings
-                        📌️ 0x07. C - Even more pointers, arrays and strings
-                        📌️ 0x08. C - Recursion
-                        📌️ 0x09. C - Static libraries
-                        📌️ 0x0A. C - argc, argv
-                        📌️ 0x0B. C - malloc, free
-                        📌️ 0x0C. C - More malloc, free
-                        📌️ 0x0D. C - Preprocessor
-                        📌️ 0x0E. C - Structures, typedef
-                        📌️ 0x0F. C - Function pointers
-                        📌️ 0x10. C - Variadic functions
-                        📌️ 0x11. C - printf [Team Collaboration Project: (https://github.com/bshongwe/printf) - completed on the 22nd of August, 2023]
-                
+                        📌️ Hatching out module completed
+                                        
                 📍️ Low-level programming & Algorithm - Data structures and Algorithms (on-going, https://github.com/bshongwe/alx-low_level_programming)
-                        📌️ 0x12. C - Singly linked lists
-                        📌️ 0x13. C - More singly linked lists
+                        📍️currently studying this module
                 
                 📍️ System Engineering and DevOps:
-                        📌️ Shell Basics
-                        📌️ Shell Permissions
-                        📌️ Shell I/O Redirections and Filters
-                        📌️ Shell Init Files, Variables and Expansion
+                        📌️ 4 projects completed
+                        📍️ to be completed on forthcoming trimesters
             
-            📍️ System engineering & DevOps
-                📍️ System engineering & DevOps - Bash
-                        📌️ 0x00. Shell, basics
-                        📌️ 0x01. Shell, permissions
-                        📌️ 0x02. Shell, I/O Redirections and filters
-                        📌️ 0x03. Shell, init files, variables and expansions
-
-
+            
     2. freeCodeCamp - Full Stack Legacy Certification
             Completed:
                 📌️ Responsive Web Design certification
@@ -62,17 +34,7 @@ I'm a passionate <strong>full stack software engineer</strong>, currently studyi
     
     3. Microsoft Learn:
                 📌️ Azure Developer Associate - Certifications:
-                        📌️ AZ-204: Implement Azure App Service web apps
-                        📌️ AZ-204: Implement Azure Functions
-                        📌️ AZ-204: Develop solutions that use Blob storage
-                        📌️ AZ-204: Develop solutions that use Azure Cosmos DB
-                        📌️ AZ-204: Implement containerized solutions
-                        📌️ AZ-204: Implement user authentication and authorization
-                        📌️ AZ-204: Implement secure Azure solutions
-                        📌️ AZ-204: Implement API Management
-                        📌️ AZ-204: Develop event-based solutions
-                        📌️ AZ-204: Troubleshoot solutions by using Application Insights
-                        📌️ AZ-204: Implement caching for solutions
+                        📌️ AZ-204: All modules in this series completed
                         📌️ Machine Learning Operations (MLOps) Challenge
                         📍️ Microsoft Azure AI Fundamentals: Get started with artificial intelligence
 
