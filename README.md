@@ -30,6 +30,7 @@ I'm a passionate <strong>full stack software engineer</strong>, currently studyi
                 📌️ Front End Development Libraries certification
                 📌️ Back End Develoment and APIs certification
                 📍️ working towards completing Quality Assurance certification
+                📍️ (New) Foundational C# with Microsoft Certification (freeCodeCamp & Microsoft professional certification)
 
     
     3. Microsoft Learn:
