@@ -16,7 +16,6 @@ I'm a passionate <strong>full stack software engineer</strong>, currently studyi
                         📌️ Hatching out module completed
                                         
                 📍️ Low-level programming & Algorithm - Data structures and Algorithms (on-going, https://github.com/bshongwe/alx-low_level_programming)
-                        📍️currently studying this module
                         📍️ currently preparing for 0x16. C - Simple Shell, a team project that will be conducted with @Garricku
                 
                 📍️ System Engineering and DevOps:
