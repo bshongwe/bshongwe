@@ -1,4 +1,4 @@
-# Hi... 🤓️
+# Hi there... 🤓️
 I'm <strong>Ernest Bhekizwe Shongwe</strong> from <strong>Boksburg, South Africa</strong> 🇿🇦️
 
 An agronomist-turned-software engineer that started his journey via <strong>JavaScript</strong>
