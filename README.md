@@ -17,6 +17,7 @@ I'm a passionate <strong>full stack software engineer</strong>, currently studyi
                 📍️ Low-level programming & Algorithm - Data structures and Algorithms (on-going, https://github.com/bshongwe/alx-low_level_programming)
                         📍️ currently working on 0x16. C - Simple Shell, a team project carryied with @Garricku that started on 6 September 2023, expected to be complete by 21 September 2023
                         ---> Error by ALX checker even after we ran our shell to pass certain edge tests caused confusion, thus, resorted to a new minimal SHELL version for the second deadline (23 September 2023, 6 AM - South African time)
+                        ---> Debugging session under guidance from my previous Printf project partner, the Simple Shell project met more ALX Standards... thank you Zik (completed @ 23 September 2023, 20:08 - South African time)
                 
                 📍️ System Engineering and DevOps:
                         📌️ 4 projects completed (12 July 2023)
