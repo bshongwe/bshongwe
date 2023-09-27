@@ -3,7 +3,7 @@ I'm <strong>Ernest Bhekizwe Shongwe</strong> from <strong>Boksburg, South Africa
 
 I'm a passionate <strong>full stack software engineer</strong>, currently studying at 👨‍🎓️:
 
-    1. ALX (@alx_africa): ALX Software Engineering (ALX SE) Programme
+    1. ALX (@alx_africa): ALX Software Engineering (ALX SE) Programme --- NB: Recent ALX Repos have been privatised on purpose
         📍️ First Trimester:
            
                 📌️ Onboarding Module:
