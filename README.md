@@ -27,8 +27,10 @@ I'm a passionate <strong>full stack software engineer</strong>, currently studyi
                 📌️ JavaScript Algorithm and Data Structures certification
                 📌️ Front End Development Libraries certification
                 📌️ Back End Develoment and APIs certification
+                📌️ (New) Foundational C# with Microsoft Certification (freeCodeCamp & Microsoft professional certification)
+            On-going:
+                📍️ Scientific Computing with Python Certification
                 📍️ working towards completing Quality Assurance certification
-                📍️ (New) Foundational C# with Microsoft Certification (freeCodeCamp & Microsoft professional certification)
 
     
     3. Microsoft Learn:
@@ -37,7 +39,7 @@ I'm a passionate <strong>full stack software engineer</strong>, currently studyi
                         📌️ Machine Learning Operations (MLOps) Challenge
                         📍️ Microsoft Azure AI Fundamentals: Get started with artificial intelligence
 
-                📍️ (New) Foundational C# with Microsoft Certification (freeCodeCamp & Microsoft professional certification)
+                📌️ (New) Foundational C# with Microsoft Certification (freeCodeCamp & Microsoft professional certification) ---> completed (see in freeCodeCamp above)
 
     
     4. ClayDesk e-Learning   
