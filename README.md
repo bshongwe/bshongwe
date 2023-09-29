@@ -14,6 +14,7 @@ I'm a passionate <strong>full stack software engineer</strong>, currently studyi
                                         
                 📌️ Low-level programming & Algorithm - Data structures and Algorithms (on-going, https://github.com/bshongwe/alx-low_level_programming)
                         📌️ currently working on 0x16. C - Simple Shell, a team project carryied with @Garricku that started on 6 September 2023, expected to be complete by 21 September 2023                
+                
                 📍️ System Engineering and DevOps:
                         📌️ 4 projects completed (12 July 2023)
             
