@@ -29,8 +29,8 @@ I'm a passionate <strong>full stack software engineer</strong>, currently studyi
                 📌️ Scientific Computing with Python Certification
                 📌️ Data Analysis with Python Certification
             On-going:
+                📍️ Quality Assurance certification (2 projects left)
                 📍️ Machine Learning with Python Certitfication
-                📍️ Quality Assurance certification
 
     
     3. Microsoft Learn:
