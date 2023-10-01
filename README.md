@@ -4,8 +4,8 @@ I'm <strong>Ernest Bhekizwe Shongwe</strong> from <strong>Boksburg, South Africa
 I'm a passionate <strong>full stack software engineer</strong>, currently studying at 👨‍🎓️:
 
     1. ALX (@alx_africa): ALX Software Engineering (ALX SE) Programme --- NB: Recent ALX Repos have been privatised on purpose
-        📍️ First Trimester:
-           
+    
+        📌️ First Trimester:           
                 📌️ Onboarding Module:
                         📌️ Getting Started module completed (8 July 2023)
 
@@ -15,8 +15,12 @@ I'm a passionate <strong>full stack software engineer</strong>, currently studyi
                 📌️ Low-level programming & Algorithm - Data structures and Algorithms (on-going, https://github.com/bshongwe/alx-low_level_programming)
                         📌️ currently working on 0x16. C - Simple Shell, a team project carryied with @Garricku that started on 6 September 2023, expected to be complete by 21 September 2023                
                 
-                📍️ System Engineering and DevOps:
+                📌️ System Engineering and DevOps:
                         📌️ 4 projects completed (12 July 2023)
+
+        📌️ Second Trimester:           
+                📍️ Python:
+                        📍️ Begins 02 October 2023
             
             
     2. freeCodeCamp - Full Stack Legacy Certification
