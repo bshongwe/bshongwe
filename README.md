@@ -9,11 +9,13 @@ I'm a passionate <strong>full stack software engineer</strong>, currently studyi
                 📌️ Onboarding Module:
                         📌️ Getting Started module completed (8 July 2023)
 
-                📌️ Low-level programming & Algorithm - Hatching out (https://github.com/bshongwe/alx-low_level_programming):
-                        📌️ Hatching out module completed (1 September 2023)
+                📌️ Low-level programming & Algorithm - Hatching out:
+                        📌️ completed (1 September 2023)
                                         
-                📌️ Low-level programming & Algorithm - Data structures and Algorithms (on-going, https://github.com/bshongwe/alx-low_level_programming)
-                        📌️ currently working on 0x16. C - Simple Shell, a team project carryied with @Garricku that started on 6 September 2023, expected to be complete by 21 September 2023                
+                📌️ Low-level programming & Algorithm - Data structures and Algorithms
+
+                📌️ Low-level programming & Algorithm - Linux and Unix system programming:
+                        📌️ trimester coursework completed @ 21 September 2023
                 
                 📌️ System Engineering and DevOps:
                         📌️ 4 projects completed (12 July 2023)
