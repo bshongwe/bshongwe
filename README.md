@@ -19,11 +19,13 @@ I'm a passionate <strong>full stack software engineer</strong>, currently studyi
                 
                 📌️ System Engineering and DevOps:
                         📌️ 4 projects completed (12 July 2023)
+ 
  -------- New sprint ------>>>>
         📌️ Second Trimester:           
                 📍️ Python:
                         📍️ Begins 02 October 2023
-            
+ -------- xxxx ------>>>>
+
             
     2. freeCodeCamp - Full Stack Legacy Certification
             Completed:
@@ -34,11 +36,15 @@ I'm a passionate <strong>full stack software engineer</strong>, currently studyi
                 📌️ (New) Foundational C# with Microsoft Certification (freeCodeCamp & Microsoft professional certification)
                 📌️ Scientific Computing with Python Certification
                 📌️ Data Analysis with Python Certification
-            On-going:
+
+ -------- xxxx ------>>>>
+             On-going:
                 📍️ Quality Assurance certification (2 projects left)
                 📍️ Machine Learning with Python Certitfication
+  -------- xxxx ------>>>>
 
-    
+
+
     3. Microsoft Learn:
                 📌️ Azure Developer Associate - Certifications:
                         📌️ AZ-204: All modules in this series completed
@@ -46,12 +52,14 @@ I'm a passionate <strong>full stack software engineer</strong>, currently studyi
                         📍️ Microsoft Azure AI Fundamentals: Get started with artificial intelligence
                 📌️ (New) Foundational C# with Microsoft Certification (freeCodeCamp & Microsoft professional certification) ---> completed (see in freeCodeCamp above)
 
-    
+
+ -------- xxxx ------>>>>
     4. ClayDesk e-Learning   
     
     5. CodeRed    
     
-    6. Hacker Rank    
+    6. Hacker Rank
+ -------- xxxx ------>>>>
     
     7. Geeks For Geeks:
                 📍️ Full Stack Boot Camp, Java Programming, Cloud Boot Camp    
@@ -111,6 +119,10 @@ I'm looking towards collaborating with others on any project that revolves aroun
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" />
 <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kubernetes/kubernetes-plain.svg" />
 
+ -------- xxxx ------     -------- xxxx ------     -------- xxxx ------     -------- xxxx ------     -------- xxxx ------     -------- xxxx ------     -------- xxxx ------     -------- xxxx ------
+ -------- xxxx ------     -------- xxxx ------     -------- xxxx ------     -------- xxxx ------     -------- xxxx ------     -------- xxxx ------     -------- xxxx ------     -------- xxxx ------
+ -------- xxxx ------     -------- xxxx ------     -------- xxxx ------     -------- xxxx ------     -------- xxxx ------     -------- xxxx ------     -------- xxxx ------     -------- xxxx ------
+ 
 # <h6>**In addition:<br> Beanstalk | Emacs | Vi**</h6>
 
 # <h3>**Social Media**</h3>
