@@ -20,11 +20,10 @@ I'm a passionate <strong>full stack software engineer</strong>, currently studyi
                 📌️ System Engineering and DevOps:
                         📌️ 4 projects completed (12 July 2023)
  
- -------- New sprint ------>>>>
+ 
         📌️ Second Trimester:           
-                📍️ Python:
-                        📍️ Begins 02 October 2023
- -------- xxxx ------>>>>
+                📍️ Higher-level programming Module:
+                        📍️ Higher-level programming - Python - began 02 October 2023
 
             
     2. freeCodeCamp - Full Stack Legacy Certification
