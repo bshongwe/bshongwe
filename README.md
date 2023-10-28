@@ -23,7 +23,7 @@ I'm a passionate <strong>full stack software engineer</strong>, currently studyi
  
         📌️ Second Trimester:           
                 📍️ Higher-level programming Module:
-                        📍️ Higher-level programming - Python - began 02 October 2023
+                        📍️ Higher-level programming - Python - began 02 October 2023 (will update this part later)
 
             
     2. freeCodeCamp - Full Stack Legacy Certification
