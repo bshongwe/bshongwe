@@ -19,6 +19,7 @@ I'm a passionate <strong>full stack software engineer</strong>, currently studyi
                 
                 📌️ System Engineering and DevOps:
                         📌️ 4 projects completed (12 July 2023)
+                        📌️ command line challenge (completed 27 tasks)
  
  
         📌️ Second Trimester:           
