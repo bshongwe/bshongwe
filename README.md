@@ -13,8 +13,7 @@ I'm a passionate <strong>full stack software engineer</strong>, currently studyi
                         📌️ completed (1 September 2023)
                                         
                 📌️ Low-level programming & Algorithm - Data structures and Algorithms
-
-                📌️ Low-level programming & Algorithm - Linux and Unix system programming:
+                    📌️ Low-level programming & Algorithm - Linux and Unix system programming:
                         📌️ trimester coursework completed @ 21 September 2023
                 
                 📌️ System Engineering and DevOps:
