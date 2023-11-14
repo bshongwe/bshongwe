@@ -5,59 +5,49 @@ I'm a passionate <strong>full stack software engineer</strong>, currently studyi
 
     1. ALX (@alx_africa): ALX Software Engineering (ALX SE) Programme
     
-        📌️ First Trimester:           
-                📌️ Onboarding Module:
-                        📌️ Getting Started module completed (8 July 2023)
-
-                📌️ Low-level programming & Algorithm - Hatching out:
-                        📌️ completed (1 September 2023)
-                                        
-                📌️ Low-level programming & Algorithm - Data structures and Algorithms
-                    📌️ Low-level programming & Algorithm - Linux and Unix system programming:
-                        📌️ trimester coursework completed @ 21 September 2023
-                
-                📌️ System Engineering and DevOps:
-                        📌️ 4 projects completed (12 July 2023)
-                        📌️ command line challenge (completed 27 tasks)
- 
+        📌️ First Trimester:                
+                        📌️ trimester coursework 19 June 2023 to 21 September 2023
  
         📌️ Second Trimester:           
-                📍️ Higher-level programming Module:
                         📍️ Higher-level programming - Python - began 02 October 2023 (will update this part later)
 
             
     2. freeCodeCamp - Full Stack Legacy Certification
             Completed:
-                📌️ Responsive Web Design certification
-                📌️ JavaScript Algorithm and Data Structures certification
-                📌️ Front End Development Libraries certification
-                📌️ Back End Develoment and APIs certification
                 📌️ (New) Foundational C# with Microsoft Certification (freeCodeCamp & Microsoft professional certification)
                 📌️ Scientific Computing with Python Certification
                 📌️ Data Analysis with Python Certification
+                📌️ Back End Develoment and APIs certification
+                📌️ Front End Development Libraries certification
+                📌️ JavaScript Algorithm and Data Structures certification
+                📌️ Responsive Web Design certification
 
  -------- xxxx ------>>>>
+ 
              On-going:
                 📍️ Quality Assurance certification (2 projects left)
                 📍️ Machine Learning with Python Certitfication
-  -------- xxxx ------>>>>
+ -------- xxxx ------>>>>
 
 
 
     3. Microsoft Learn:
+                📌️ (New) Foundational C# with Microsoft Certification (freeCodeCamp & Microsoft professional certification) ---> completed (see in freeCodeCamp above)
                 📌️ Azure Developer Associate - Certifications:
                         📌️ AZ-204: All modules in this series completed
                         📌️ Machine Learning Operations (MLOps) Challenge
                         📍️ Microsoft Azure AI Fundamentals: Get started with artificial intelligence
-                📌️ (New) Foundational C# with Microsoft Certification (freeCodeCamp & Microsoft professional certification) ---> completed (see in freeCodeCamp above)
+
 
 
  -------- xxxx ------>>>>
+ 
     4. ClayDesk e-Learning   
     
     5. CodeRed    
     
     6. Hacker Rank
+ 
  -------- xxxx ------>>>>
     
     7. Geeks For Geeks:
