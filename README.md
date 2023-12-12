@@ -1,6 +1,9 @@
 # Hi there... 🤓️
 I'm <strong>Ernest Bhekizwe Shongwe</strong> from <strong>Boksburg, South Africa</strong> 🇿🇦️  ...An agronomist-turned-software engineer that started his journey via <strong>freeCodeCamp</strong> using <strong>JavaScript</strong>
 
+![bshongwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=bshongwe&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bshongwe&layout=compact)
+
 I'm a passionate <strong>full stack software engineer</strong>, currently studying at 👨‍🎓️:
 
     1. ALX (@alx_africa): ALX Software Engineering (ALX SE) Programme
