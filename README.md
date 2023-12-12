@@ -6,34 +6,31 @@ I'm <strong>Ernest Bhekizwe Shongwe</strong> from <strong>Boksburg, South Africa
 
 I'm a passionate <strong>full stack software engineer</strong>, currently studying at 👨‍🎓️:
 
-    1. ALX (@alx_africa): ALX Software Engineering (ALX SE) Programme
+    1. ALX (@alx_africa): ALX Software Engineering (ALX SE) Programme |
+        📌️ First Trimester:
+            📌️ trimester coursework 19 June 2023 to 21 September 2023
+        📌️ Second Trimester:
+            📍️ Higher-level programming - Python - began 02 October 2023
     
-        📌️ First Trimester:                
-                        📌️ trimester coursework 19 June 2023 to 21 September 2023
- 
-        📌️ Second Trimester:           
-                        📍️ Higher-level programming - Python - began 02 October 2023
-
-            
     2. freeCodeCamp - Full Stack Legacy Certification
-            Completed:
-                📌️ (New) Foundational C# with Microsoft Certification (freeCodeCamp & Microsoft professional certification)
-                📌️ Scientific Computing with Python Certification
-                📌️ Data Analysis with Python Certification
-                📌️ Back End Develoment and APIs certification
-                📌️ Front End Development Libraries certification
-                📌️ JavaScript Algorithm and Data Structures certification
-                📌️ Responsive Web Design certification
+        Completed:
+            📌️ (New) Foundational C# with Microsoft Certification (freeCodeCamp & Microsoft professional certification)
+            📌️ Scientific Computing with Python Certification
+            📌️ Data Analysis with Python Certification
+            📌️ Back End Develoment and APIs certification
+            📌️ Front End Development Libraries certification
+            📌️ JavaScript Algorithm and Data Structures certification
+            📌️ Responsive Web Design certification
 
     3. Microsoft Learn:
-                📌️ (New) Foundational C# with Microsoft Certification (freeCodeCamp & Microsoft professional certification) ---> completed (see in freeCodeCamp above)
-                📌️ Azure Developer Associate - Certifications:
-                        📌️ AZ-204: All modules in this series completed
-                        📌️ Machine Learning Operations (MLOps) Challenge
-                        📍️ Microsoft Azure AI Fundamentals: Get started with artificial intelligence
+        📌️ (New) Foundational C# with Microsoft Certification (freeCodeCamp & Microsoft professional certification) ---> completed (see in freeCodeCamp above)
+            📌️ Azure Developer Associate - Certifications:
+                📌️ AZ-204: All modules in this series completed
+                📌️ Machine Learning Operations (MLOps) Challenge
+                📍️ Microsoft Azure AI Fundamentals: Get started with artificial intelligence
 
     4. Geeks For Geeks:
-                📍️ Full Stack Boot Camp, Java Programming, Cloud Boot Camp    
+        📍️ Full Stack Boot Camp, Java Programming, Cloud Boot Camp    
     
     ... and many others. Check my LinkedIn profile for the latest updates.
 
@@ -42,7 +39,8 @@ I'm open towards collaborating with other developers on any project 👨‍💻�
 
 # **Interests**
 ### Full Stack
-    Back End | Front End | MERN/MEAN | APIs (REST & RESTful) | Cybersecurity | Databases | Quality Assurance | Microservices | Responsive Web Design
+    | Back End | Front End | MERN/MEAN | APIs (REST & RESTful) | Cybersecurity | Databases | Quality Assurance |
+    | Microservices | Responsive Web Design |
 
 # **🔩️Skills👨‍🔧️**
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" />
