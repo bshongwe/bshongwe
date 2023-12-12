@@ -25,15 +25,6 @@ I'm a passionate <strong>full stack software engineer</strong>, currently studyi
                 📌️ JavaScript Algorithm and Data Structures certification
                 📌️ Responsive Web Design certification
 
- -------- xxxx ------>>>>
- 
-             On-going:
-                📍️ Quality Assurance certification (2 projects left)
-                📍️ Machine Learning with Python Certitfication
- -------- xxxx ------>>>>
-
-
-
     3. Microsoft Learn:
                 📌️ (New) Foundational C# with Microsoft Certification (freeCodeCamp & Microsoft professional certification) ---> completed (see in freeCodeCamp above)
                 📌️ Azure Developer Associate - Certifications:
@@ -41,49 +32,30 @@ I'm a passionate <strong>full stack software engineer</strong>, currently studyi
                         📌️ Machine Learning Operations (MLOps) Challenge
                         📍️ Microsoft Azure AI Fundamentals: Get started with artificial intelligence
 
-
-
- -------- xxxx ------>>>>
- 
-    4. ClayDesk e-Learning   
-    
-    5. CodeRed    
-    
-    6. Hacker Rank
- 
- -------- xxxx ------>>>>
-    
-    7. Geeks For Geeks:
+    4. Geeks For Geeks:
                 📍️ Full Stack Boot Camp, Java Programming, Cloud Boot Camp    
     
-    8. edX:
-                📍️ Harvard CS50
     ... and many others. Check my LinkedIn profile for the latest updates.
 
-
-I'm looking towards collaborating with others on any project that revolves around my stack scope. However, I am always keen on acquiring more onto my stack, upgrading myself where and whenever possible 👨‍💻️
+I'm open towards collaborating with other developers on any project 👨‍💻️
+<br></br>
 
 # **Interests**
 ### Full Stack
-    Back End | Front End | MERN/MEAN | APIs (REST & RESTFUL) | Cybersecurity | Databases | Quality Assurance | Microservices
-
+    Back End | Front End | MERN/MEAN | APIs (REST & RESTful) | Cybersecurity | Databases | Quality Assurance | Microservices | Responsive Web Design
 
 # **🔩️Skills👨‍🔧️**
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" />
-
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original.svg" />
-
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg" />
@@ -91,31 +63,24 @@ I'm looking towards collaborating with others on any project that revolves aroun
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original-wordmark.svg" />
 <img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redux/redux-original.svg" />
-
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Vigrant" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vagrant/vagrant-original.svg" />
 <img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vim/vim-original.svg" />
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" />
 <img align="left" alt="IntelliJ" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original.svg" />
-
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
-
 <img align="left" alt="Mocha" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mocha/mocha-plain.svg" />
-
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" /><br>
-
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" />
 <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kubernetes/kubernetes-plain.svg" />
+<br></br>
 
- -------- xxxx ------     -------- xxxx ------     -------- xxxx ------     -------- xxxx ------     -------- xxxx ------     -------- xxxx ------     -------- xxxx ------     -------- xxxx ------
- -------- xxxx ------     -------- xxxx ------     -------- xxxx ------     -------- xxxx ------     -------- xxxx ------     -------- xxxx ------     -------- xxxx ------     -------- xxxx ------
- -------- xxxx ------     -------- xxxx ------     -------- xxxx ------     -------- xxxx ------     -------- xxxx ------     -------- xxxx ------     -------- xxxx ------     -------- xxxx ------
- 
 # <h6>**In addition:<br> Beanstalk | Emacs | Vi**</h6>
+<br></br>
 
 # <h3>**Social Media**</h3>
 
@@ -127,6 +92,8 @@ I'm looking towards collaborating with others on any project that revolves aroun
     <a href="shongwe.bhekizwe@yahoomail.com"><i class="fab fa-yahoo"></i>Yahoo</a>
   </section>
 </div>
+
+<br></br>
 
 <h6>Donate</h6>
 <p><a href="https://www.buymeacoffee.com/ebshongwe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" width="105" alt="ebshongwe" /></a></p>
