@@ -1,7 +1,7 @@
 # Hi there... 🤓️
 I'm <strong>Ernest Bhekizwe Shongwe</strong> from <strong>Boksburg, South Africa</strong> 🇿🇦️  ...An agronomist-turned-software engineer that started his journey via <strong>freeCodeCamp</strong> using <strong>JavaScript</strong>
 
-📍️ I'm currently studying JavaScript, MySQL, Ruby & Python at ALX as of 19 June 2023...
+📍️ I'm currently studying C, JavaScript, MySQL, Ruby & Python at ALX as of 19 June 2023...
 <img align="left" alt="C" width="300px" style="padding-right:100px;" src= giphy.gif />
 
 ![bshongwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=bshongwe&show_icons=true&theme=radical)
