@@ -6,6 +6,7 @@ I'm <strong>Ernest Bhekizwe Shongwe</strong> from <strong>Boksburg, South Africa
 
 ![bshongwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=bshongwe&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bshongwe&layout=compact)
+<br>
 [![Codewars](https://www.codewars.com/users/bshongwe/badges/large)](https://www.codewars.com/users/bshongwe/)
 
 I'm a passionate <strong>full stack software engineer</strong>, currently studying at 👨‍🎓️:
