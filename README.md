@@ -7,9 +7,11 @@ I'm <strong>Ernest Bhekizwe Shongwe</strong> from <strong>Boksburg, South Africa
 <img align="left" alt="C" width="260px" style="padding-right:100px;" src= giphy.gif />
 
 ![bshongwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=bshongwe&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bshongwe)](https://git.io/streak-stats)
 <br></br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bshongwe&layout=compact)
 [![Codewars](https://www.codewars.com/users/bshongwe/badges/large)](https://www.codewars.com/users/bshongwe/)
+<br></br>
+
 
 I'm a passionate <strong>full stack software engineer</strong>, currently studying at 👨‍🎓️:
 
