@@ -3,17 +3,24 @@ I'm <strong>Ernest Bhekizwe Shongwe</strong> from <strong>Boksburg, South Africa
 
 📍️ I'm currently studying C, JavaScript, MySQL, Ruby, BF, Python & Puppet (dealing with servers and web infrastructure) at ALX as of 19 June 2023. I am also attending a Code Alpha (https://www.codealpha.tech) internship for Web Development...
 <br></br>
-
-<img align="left" alt="C" style="padding-right;" src="HAproxy-and-2-server-setup.gif">
+<div class="container">
+    <img align="left" alt="C" style="padding-right;" src="HAproxy-and-2-server-setup.gif">
+</div>
 
 <br></br>
-At ALX, I'm currently work with servers, a setup that started out with just 1 server running on Nginx. The setup has developed to have an HAproxy (load balancer) and an additional servers, making that a total of 3 servers, the HAproxy inclusive...
+<div class="container">
+    <p>At ALX, I'm currently work with servers, a setup that started out with just 1 server running on Nginx. The setup has developed to have an HAproxy (load balancer) and an additional servers, making that a total of 3 servers, the HAproxy inclusive...</p>
+</div>
+
+<br></br>
+<br></br>
+<br></br>
 
 <img align="left" alt="C" width="260px" style="padding-right:100px;" src= giphy.gif />
 
 ![bshongwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=bshongwe&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bshongwe)](https://git.io/streak-stats)
-<br></br>
+
 [![Codewars](https://www.codewars.com/users/bshongwe/badges/large)](https://www.codewars.com/users/bshongwe/)
 <br></br>
 
