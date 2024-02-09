@@ -8,8 +8,9 @@ I'm <strong>Ernest Bhekizwe Shongwe</strong> from <strong>Boksburg, South Africa
 </div>
 
 <br></br>
+</br>
 
-<div class="container" align="right">
+<div class="container" align="center">
     <p>
         At ALX, I'm currently working with servers, a setup that started</br>
         out with just 1 server running on Nginx. The setup has developed</br>
