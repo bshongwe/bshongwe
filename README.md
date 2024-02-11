@@ -1,7 +1,10 @@
 # Hi there... 🤓️
 I'm <strong>Ernest Bhekizwe Shongwe</strong> from <strong>Vosloorus, Johannesburg, South Africa</strong> 🇿🇦️  ...I started my tech journey via <strong>freeCodeCamp</strong> using <strong>JavaScript</strong>
 
-📍️ I'm currently studying C, JavaScript, MySQL, Ruby, BF, Python & Puppet (dealing with servers and web infrastructure) at ALX as of 19 June 2023. I am also attending a Code Alpha (https://www.codealpha.tech) internship for Web Development...
+📍️ I'm currently studying C, JavaScript, MySQL, Ruby, BF, Python & Puppet (dealing with servers and web infrastructure) at ALX as of 19 June 2023.
+
+📍️ I am also attending a Code Alpha (https://www.codealpha.tech) internship for Web Development...
+
 <br></br>
 <div class="container">
     <img align="left" alt="C" style="padding-right;" src="HAproxy-and-2-server-setup.gif">
@@ -13,8 +16,8 @@ I'm <strong>Ernest Bhekizwe Shongwe</strong> from <strong>Vosloorus, Johannesbur
 <div class="container" align="center">
     <p>
         At ALX, I'm currently working with servers, a setup that started</br>
-        out with just 1 server running on Nginx. The setup has developed</br>
-        to have an HAproxy (load balancer) and an additional servers,</br>
+        out with just 1 server running on Nginx. The setup has upscaled</br>
+        to have an HAproxy (load balancer) and an additional server,</br>
         making that a total of 3 servers, the HAproxy inclusive...
     </p>
 </div>
