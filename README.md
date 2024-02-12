@@ -1,14 +1,26 @@
 # Hi there... 🤓️
-I'm <strong>Ernest Bhekizwe Shongwe</strong> from <strong>Vosloorus, Johannesburg, South Africa</strong> 🇿🇦️  ...I started my tech journey via <strong>freeCodeCamp</strong> using <strong>JavaScript</strong>
-<br></br>
+<div class="container" align="center">
+    <p>
+        I'm <strong>Ernest Bhekizwe Shongwe</strong> from <strong>Vosloorus, Johannesburg, South Africa</strong> 🇿🇦️  
+        ...I started my tech journey via <strong>freeCodeCamp</strong> using <strong>JavaScript</strong>
+    </p>
+</div>
 <div class="container">
-    <img align="left" alt="C" style="padding-right;" src="dev-banner_2.gif">
+    <img align="left" alt="C" width="400px" height="325px" style="padding-right:100px;" src="dev-banner_2.gif">
 </div>
 <br></br>
-
-📍️ I'm currently studying C, JavaScript, MySQL, Ruby, BF, Python & Puppet (dealing with servers and web infrastructure) at ALX as of 19 June 2023.
-
-📍️ I am also attending a Code Alpha (https://www.codealpha.tech) internship for Web Development...
+<div class="container" align="center">
+    <p>
+        📍️ I'm currently studying C, JavaScript, MySQL, Ruby, BF, Python & Puppet (dealing with servers and web infrastructure)
+        at ALX as of 19 June 2023.
+    <br></br>
+    <br></br>
+        📍️ I am also attending a Code Alpha (https://www.codealpha.tech) internship for Web Development...
+    </p>
+    <br></br>
+    <br></br>
+    <br></br>
+</div>
 
 <br></br>
 <div class="container">
@@ -16,7 +28,7 @@ I'm <strong>Ernest Bhekizwe Shongwe</strong> from <strong>Vosloorus, Johannesbur
 </div>
 
 <br></br>
-</br>
+<br></br>
 
 <div class="container" align="center">
     <p>
@@ -31,7 +43,7 @@ I'm <strong>Ernest Bhekizwe Shongwe</strong> from <strong>Vosloorus, Johannesbur
 <br></br>
 <br></br>
 
-<img align="left" alt="C" width="260px" style="padding-right:100px;" src= giphy.gif />
+<img align="left" alt="C" width="260px" style="padding-right:100px;" src="giphy.gif" />
 
 ![bshongwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=bshongwe&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bshongwe)](https://git.io/streak-stats)
@@ -75,18 +87,30 @@ I'm open towards collaborating with other developers on any project 👨‍💻�
 
 # **Interests**
 <div class="container">
-    <img align="left" alt="C" style="padding-right;" src="app-development.gif">
+    <img align="left" alt="C" width="400px" height="325px" style="padding-right:100px;" src="app-development.gif">
 </div>
 <br></br>
-
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 ### Full Stack
     | Back End | Front End | MERN/MEAN | APIs (REST & RESTful) | Cybersecurity | Databases | Quality Assurance |
     | Microservices | Responsive Web Design |
 
 # **🔩️Skills👨‍🔧️**
 <div class="container">
-    <img align="left" alt="C" style="padding-right;" src="skills.gif">
+    <img align="left" alt="C" width="400px" height="325px" style="padding-right:100px;" src="skills.gif">
 </div>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 <br></br>
 
 
