@@ -1,5 +1,10 @@
 # Hi there... 🤓️
 I'm <strong>Ernest Bhekizwe Shongwe</strong> from <strong>Vosloorus, Johannesburg, South Africa</strong> 🇿🇦️  ...I started my tech journey via <strong>freeCodeCamp</strong> using <strong>JavaScript</strong>
+<br></br>
+<div class="container">
+    <img align="left" alt="C" style="padding-right;" src="dev-banner_2.gif">
+</div>
+<br></br>
 
 📍️ I'm currently studying C, JavaScript, MySQL, Ruby, BF, Python & Puppet (dealing with servers and web infrastructure) at ALX as of 19 June 2023.
 
@@ -69,11 +74,22 @@ I'm open towards collaborating with other developers on any project 👨‍💻�
 <br></br>
 
 # **Interests**
+<div class="container">
+    <img align="left" alt="C" style="padding-right;" src="app-development.gif">
+</div>
+<br></br>
+
 ### Full Stack
     | Back End | Front End | MERN/MEAN | APIs (REST & RESTful) | Cybersecurity | Databases | Quality Assurance |
     | Microservices | Responsive Web Design |
 
 # **🔩️Skills👨‍🔧️**
+<div class="container">
+    <img align="left" alt="C" style="padding-right;" src="skills.gif">
+</div>
+<br></br>
+
+
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
