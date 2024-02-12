@@ -96,6 +96,7 @@ I'm open towards collaborating with other developers on any project 👨‍💻�
 <br></br>
 <br></br>
 <br></br>
+<br></br>
 
 ### Full Stack
     | Back End | Front End | MERN/MEAN | APIs (REST & RESTful) | Cybersecurity | Databases | Quality Assurance |
