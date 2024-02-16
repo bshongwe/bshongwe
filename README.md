@@ -8,16 +8,24 @@
 <div class="container">
     <img align="left" alt="C" width="400px" height="325px" style="padding-right:100px;" src="dev-banner_2.gif">
 </div>
+<div class="container">
+    <img align="left" alt="C" width="400px" height="325px" style="padding-right:100px;" src="app-development.gif">
+</div>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 <br></br>
 <div class="container" align="center">
     <p>
         📍️ I'm currently studying C, JavaScript, MySQL, Ruby, BF, Python & Puppet (dealing with servers and web infrastructure)
         at ALX as of 19 June 2023.
     <br></br>
-    <br></br>
         📍️ I am also attending a Code Alpha (https://www.codealpha.tech) internship for Web Development...
     </p>
-    <br></br>
     <br></br>
     <br></br>
 </div>
@@ -28,14 +36,12 @@
 </div>
 
 <br></br>
-<br></br>
 
 <div class="container" align="center">
     <p>
-        At ALX, I'm currently working with servers, a setup that started</br>
-        out with just 1 server running on Nginx. The setup has upscaled</br>
-        to have an HAproxy (load balancer) and an additional server,</br>
-        making that a total of 3 servers, the HAproxy inclusive...
+        I'm currently working with servers, running on Nginx, MySQL DB</br>
+        and ufw config settings and a HAproxy. The objective of this is
+        to deploy the AirBnB Clone app (for now)...
     </p>
 </div>
 
@@ -86,18 +92,6 @@ I'm open towards collaborating with other developers on any project 👨‍💻�
 <br></br>
 
 # **Interests**
-<div class="container">
-    <img align="left" alt="C" width="400px" height="325px" style="padding-right:100px;" src="app-development.gif">
-</div>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-
 ### Full Stack
     | Back End | Front End | MERN/MEAN | APIs (REST & RESTful) | Cybersecurity | Databases | Quality Assurance |
     | Microservices | Responsive Web Design |
