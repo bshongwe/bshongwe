@@ -24,7 +24,7 @@
         📍️ I'm currently studying C, JavaScript, MySQL, Ruby, BF, Python & Puppet (dealing with servers and web infrastructure)
         at ALX as of 19 June 2023.
     <br></br>
-        📍️ I am also attending a Code Alpha (https://www.codealpha.tech) internship for Web Development...
+        📍️ I am also attending a JP Morgan & Chase job simulation programme (https://www.jpmorganchase.com/) for Software Engineering and Agile...
     </p>
     <br></br>
     <br></br>
