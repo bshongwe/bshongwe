@@ -1,10 +1,13 @@
 # Hi there... 🤓️
 <div class="container" align="center">
     <p>
-        I'm <strong>Ernest Bhekizwe Shongwe</strong> from <strong>Vosloorus, Johannesburg, South Africa</strong> 🇿🇦️  
+        I'm <strong>Ernest Bhekizwe Shongwe</strong> from <strong>Vosloorus, Johannesburg, South Africa</strong> 🇿🇦️  <img align="left" alt="C" width="80px" height="66px" style="padding-right:100px;" src="dev-monika.gif">
         ...I started my tech journey via <strong>freeCodeCamp</strong> using <strong>JavaScript</strong>
     </p>
 </div>
+<br></br>
+
+
 <div class="container">
     <img align="left" alt="C" width="400px" height="325px" style="padding-right:100px;" src="dev-banner_2.gif">
 </div>
@@ -21,8 +24,7 @@
 <br></br>
 <div class="container" align="center">
     <p>
-        📍️ I'm currently studying C, JavaScript, MySQL, Ruby, BF, Python & Puppet (dealing with servers and web infrastructure)
-        at ALX as of 19 June 2023.
+        📍️ Working on completion of the AirBnB Clone app and my portfolio project at ALX Africa
     <br></br>
         📍️ I am also attending a JP Morgan & Chase job simulation programme (https://www.jpmorganchase.com/) for Software Engineering and Agile...
     </p>
@@ -30,30 +32,22 @@
     <br></br>
 </div>
 
-<br></br>
+
 <div class="container">
-    <img align="left" alt="C" style="padding-right;" src="HAproxy-and-2-server-setup.gif">
-</div>
-
-<br></br>
-
-<div class="container" align="center">
-    <p>
-        I'm currently working with servers, running on Nginx, MySQL DB</br>
-        and ufw config settings and a HAproxy. The objective of this is
-        to deploy the AirBnB Clone app (for now)...
-    </p>
+    <img align="left" alt="C" style="padding-right;" src="coding-anime.gif">
 </div>
 
 <br></br>
 <br></br>
 <br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 
-<img align="left" alt="C" width="260px" style="padding-right:100px;" src="giphy.gif" />
 
 ![bshongwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=bshongwe&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bshongwe)](https://git.io/streak-stats)
-
 [![Codewars](https://www.codewars.com/users/bshongwe/badges/large)](https://www.codewars.com/users/bshongwe/)
 <br></br>
 
