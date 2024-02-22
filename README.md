@@ -3,7 +3,7 @@
     <img align="left" alt="C" width="80px" height="66px" style="padding-right:100px;" src="dev-monika.gif">
     <p>
         I'm <strong>Ernest Bhekizwe Shongwe</strong> from <strong>Vosloorus, Johannesburg, South Africa</strong> 🇿🇦️ 
-        ...I started my tech journey via <strong>freeCodeCamp</strong> using <strong>JavaScript</strong>
+        ...I started my tech journey via <strong>freeCodeCamp</strong> using <strong>JavaScript</strong>.
         I'm open towards collaborating with other developers on any project 👨‍💻️
     </p>
 </div>
