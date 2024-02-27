@@ -28,7 +28,7 @@
     <p>
         📍️ Working on completion of the AirBnB Clone app and my portfolio project at ALX Africa
     <br></br>
-        📍️ I am also attending a JP Morgan & Chase job simulation programme (https://www.jpmorganchase.com/) for Software Engineering and Agile...
+        📍️ I am also attending a JP Morgan & Chase job simulation programme (https://www.jpmorganchase.com/) for Software Engineering and Agile.
     </p>
     <br></br>
     <br></br>
