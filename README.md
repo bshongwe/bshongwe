@@ -26,7 +26,7 @@
 <br></br>
 <div class="container" align="center">
     <p>
-        📍️ Working on completion of the AirBnB Clone app and my portfolio project at ALX Africa
+        📍️ Working on completion of the AirBnB Clone app and my portfolio project (Nestec) at ALX Africa
     <br></br>
         📍️ I am also attending a JP Morgan & Chase job simulation programme (https://www.jpmorganchase.com/) for Software Engineering and Agile.
     </p>
