@@ -26,11 +26,12 @@
 <br></br>
 <div class="container" align="center">
     <p>
-        📍️ I am currently working a full stack AirBnB Clone app and a full stack portfolio project
+        📍️ I am currently working a full stack portfolio project
         (Nestec) at ALX Africa
     <br></br>
         📍️ I am also attending a JP Morgan & Chase job simulation programme
-        (https://www.jpmorganchase.com/) for Software Engineering and Agile.
+        (https://www.jpmorganchase.com/) for Software Engineering and Agile.</br>
+        I'm also attending a Code Alpha internship programme (https://www.codealpha.tech)
     </p>
     <br></br>
     <br></br>
