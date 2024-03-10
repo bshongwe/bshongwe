@@ -29,8 +29,8 @@
         📍️ I am currently working a full stack portfolio project
         (Nestec) at ALX Africa
     <br></br>
-        📍️ I am also attending a JP Morgan & Chase job simulation programme
-        (https://www.jpmorganchase.com/) for Software Engineering and Agile.</br>
+        📍️ I am also attending a OctaNet Pvt Ltd (https://octanet.in/) Web Development
+        internship programme.</br>
         I'm also attending a Code Alpha internship programme (https://www.codealpha.tech)
     </p>
     <br></br>
