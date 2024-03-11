@@ -4,7 +4,7 @@
     <p>
         I'm <strong>Ernest Bhekizwe Shongwe</strong> from <strong>Vosloorus, Johannesburg, South Africa</strong> 🇿🇦️ 
         ...I started my tech journey via <strong>freeCodeCamp</strong> using <strong>JavaScript</strong>.
-        I'm open towards collaborating with other developers on any project or simply for consultation 👨‍💻️
+        I'm open towards collaborating with other developers on any project or simply just for consultation 👨‍💻️
     </p>
 </div>
 <br></br>
