@@ -26,8 +26,7 @@
 <br></br>
 <div class="container" align="center">
     <p>
-        📍️ I am currently working a full stack portfolio project
-        (Nestec) at ALX Africa
+        📍️ I am currently working a full stack portfolio project (Nestec) at ALX Africa
     <br></br>
         📍️ I am also attending a OctaNet Pvt Ltd (https://octanet.in/) Web Development
         internship programme.</br>
