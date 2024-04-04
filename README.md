@@ -1,44 +1,18 @@
 # Hi there... 🤓️
-<div class="container" align="center">
-    <img align="left" alt="C" width="80px" height="66px" style="padding-right:100px;" src="dev-monika.gif">
-    <p>
-        I'm <strong>Ernest Bhekizwe Shongwe</strong> from <strong>Vosloorus, Johannesburg, South Africa</strong> 🇿🇦️ </br>
-        ... I started my tech journey via <strong>freeCodeCamp</strong> using <strong>JavaScript</strong>.</br>
-        I'm open towards collaborating with other developers on any project or simply just for consultation  👨‍💻️
-    </p>
-</div>
-<br></br>
-
-
-<div class="container">
-    <img align="left" alt="C" width="400px" height="325px" style="padding-right:100px;" src="dev-banner_2.gif">
-</div>
-<div class="container">
-    <img align="left" alt="C" width="400px" height="325px" style="padding-right:100px;" src="app-development.gif">
-</div>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<div class="container" align="center">
-    <p>
-        📍️ I am currently working a full stack portfolio project (Nestec) at ALX Africa
-    <br></br>
-        📍️ I am also attending a OctaNet Pvt Ltd (https://octanet.in/) Web Development
-        internship programme.</br>
-        I'm also attending a Code Alpha internship programme (https://www.codealpha.tech)
-    </p>
-    <br></br>
-    <br></br>
-</div>
-
+<p>
+    I'm <strong>Ernest Bhekizwe Shongwe</strong> from <strong>Vosloorus, Johannesburg, South Africa</strong> 🇿🇦️ .
+    ... I started my tech journey via <strong>freeCodeCamp</strong> using <strong>JavaScript</strong>.
+    I'm open towards collaborating with other developers on any project or simply just for consultation  👨‍💻️
+</p>
+<p>
+    📍️ I am currently working a full stack portfolio project (Nestec) at ALX Africa</br>
+    📍️ I attend 2 interships:</br>
+        OctaNet Pvt Ltd (https://octanet.in/) for Web Development</br>
+        Code Alpha (https://www.codealpha.tech) for Web Development and App Development
+</p>
 
 <div class="container">
-    <img align="left" alt="C" style="padding-right;" src="coding-anime.gif">
+    <img align="left" alt="C" style="padding-right;" src="coding-anime.gif" width="650px" height="auto">
 </div>
 
 <br></br>
@@ -48,21 +22,20 @@
 <br></br>
 <br></br>
 <br></br>
-
 
 ![bshongwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=bshongwe&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bshongwe)](https://git.io/streak-stats)
 [![Codewars](https://www.codewars.com/users/bshongwe/badges/large)](https://www.codewars.com/users/bshongwe/)
 <br></br>
 
-
 I'm a passionate <strong>full stack software engineer</strong>, currently studying at 👨‍🎓️:
 
-    1. ALX (@alx_africa): ALX Software Engineering (ALX SE) Programme |
-        📌️ First Trimester:
-            📌️ trimester coursework 19 June 2023 to 21 September 2023
+    1. ALX (@alx_africa): ALX Software Engineering (ALX SE) Programme
+        **********FULL STACK**********
+        📌️ First Trimester: (completed - 19 June 2023 to 21 September 2023)
         📌️ Second Trimester:
             📍️ trimester coursework began 02 October 2023 and will end 19 April 2024
+        **********SPECIALIZATIONS: chosen path --- Back End**********
         📌️ Third Trimester (pending):
             📍️ trimester coursework to begin 22 April 2024 (pending)
     
