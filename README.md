@@ -5,7 +5,7 @@
     I'm open towards collaborating with other developers on any project or simply just for consultation  👨‍💻️
 </p>
 <p>
-    📍️ I am currently working a full stack portfolio project (Nestec) at ALX Africa</br>
+    📍️ I am currently working on a full stack portfolio project (Nestec) at ALX Africa</br>
     📍️ I attend 2 interships:</br>
         OctaNet Pvt Ltd (https://octanet.in/) for Web Development</br>
         Code Alpha (https://www.codealpha.tech) for Web Development and App Development
