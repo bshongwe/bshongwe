@@ -35,11 +35,12 @@ I'm a passionate <strong>full stack software engineer</strong>, currently studyi
         -------- foundations ---------
         📌️ First Trimester: (completed - 19 June 2023 to 21 September 2023)
         📌️ Second Trimester:
-            📍️ trimester coursework began 02 October 2023 and will end 19 April 2024
+            📌️ all trimester coursework completed
+            📍️ trimester began 02 October 2023 and will end 19 April 2024
         **********SPECIALIZATIONS**********
         -------chosen path: Back End-------
-        📌️ Third Trimester (pending):
-            📍️ trimester coursework to begin 22 April 2024 (pending)
+        📌️ Third Trimester:
+            📍️ trimester coursework: to begin 22 April 2024 (pending)
     
     2. freeCodeCamp - Full Stack Legacy Certification
         Completed:
