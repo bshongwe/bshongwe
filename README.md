@@ -10,7 +10,7 @@
 [![Codewars](https://www.codewars.com/users/bshongwe/badges/large)](https://www.codewars.com/users/bshongwe/)
 <br></br>
 
-👨‍🎓️: ALX | freeCodeCamp | Microsoft Learn | AWS educate
+👨‍🎓️: <strong>ALX</strong> | <strong>freeCodeCamp</strong> | <strong>Microsoft Learn<strong> | <strong>AWS educate</strong>
 <br></br>
 
 # **Interests**
