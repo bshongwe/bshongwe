@@ -10,38 +10,7 @@
 [![Codewars](https://www.codewars.com/users/bshongwe/badges/large)](https://www.codewars.com/users/bshongwe/)
 <br></br>
 
-I'm a passionate <strong>full stack software engineer</strong>, currently studying at 👨‍🎓️:
-
-    1. ALX (@alx_africa): ALX Software Engineering (ALX SE) Programme
-        **********FULL STACK**********
-        -------- foundations ---------
-        📌️ First Trimester: (completed - 19 June 2023 to 21 September 2023)
-        📌️ Second Trimester:
-            📌️ all trimester coursework completed
-            📍️ trimester began 02 October 2023 and will end 19 April 2024
-        **********SPECIALIZATIONS**********
-        -------chosen path: Back End-------
-        📌️ Third Trimester:
-            📍️ trimester coursework: to begin 22 April 2024 (pending)
-    
-    2. freeCodeCamp - Full Stack Legacy Certification
-        Completed:
-            📌️ (New) Foundational C# with Microsoft Certification (freeCodeCamp & Microsoft professional certification)
-            📌️ Scientific Computing with Python Certification
-            📌️ Data Analysis with Python Certification
-            📌️ Back End Develoment and APIs certification
-            📌️ Front End Development Libraries certification
-            📌️ JavaScript Algorithm and Data Structures certification
-            📌️ Responsive Web Design certification
-
-    3. Microsoft Learn:
-        📌️ (New) Foundational C# with Microsoft Certification (freeCodeCamp & Microsoft professional certification) ---> completed (see in freeCodeCamp above)
-            📌️ Azure Developer Associate - Certifications:
-                📌️ AZ-204: All modules in this series completed
-                📌️ Machine Learning Operations (MLOps) Challenge
-    
-    ... and many others. Check my LinkedIn profile for the latest updates.
-
+👨‍🎓️: ALX | freeCodeCamp | Microsoft Learn | AWS educate
 <br></br>
 
 # **Interests**
@@ -61,7 +30,6 @@ I'm a passionate <strong>full stack software engineer</strong>, currently studyi
 <br></br>
 <br></br>
 <br></br>
-
 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
@@ -96,6 +64,7 @@ I'm a passionate <strong>full stack software engineer</strong>, currently studyi
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" />
 <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kubernetes/kubernetes-plain.svg" />
+
 <br></br>
 
 # <h6>**In addition:<br> Beanstalk | Emacs | Vi**</h6>
