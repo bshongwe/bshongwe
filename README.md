@@ -4,24 +4,6 @@
     ... I started my tech journey via <strong>freeCodeCamp</strong> using <strong>JavaScript</strong>.
     I'm open towards collaborating with other developers on any project or simply just for consultation  👨‍💻️
 </p>
-<p>
-    📍️ I am currently working on a full stack portfolio project (Nestec) at ALX Africa</br>
-    📍️ I attend 2 interships:</br>
-        OctaNet Pvt Ltd (https://octanet.in/) for Web Development</br>
-        Code Alpha (https://www.codealpha.tech) for Web Development and App Development
-</p>
-
-<div class="container">
-    <img align="left" alt="C" style="padding-right;" src="coding-anime.gif" width="650px" height="auto">
-</div>
-
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
 
 ![bshongwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=bshongwe&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bshongwe)](https://git.io/streak-stats)
@@ -57,10 +39,6 @@ I'm a passionate <strong>full stack software engineer</strong>, currently studyi
             📌️ Azure Developer Associate - Certifications:
                 📌️ AZ-204: All modules in this series completed
                 📌️ Machine Learning Operations (MLOps) Challenge
-                📍️ Microsoft Azure AI Fundamentals: Get started with artificial intelligence
-
-    4. Geeks For Geeks:
-        📍️ Full Stack Boot Camp, Java Programming, Cloud Boot Camp    
     
     ... and many others. Check my LinkedIn profile for the latest updates.
 
