@@ -1,16 +1,18 @@
 # Hi there... 🤓️
 <p>
-    I'm <strong>Ernest Bhekizwe Shongwe</strong> from <strong>Vosloorus, Johannesburg, South Africa</strong> 🇿🇦️ .
-    ... I started my tech journey via <strong>freeCodeCamp</strong> using <strong>JavaScript</strong>.
-    I'm open towards collaborating with other developers on any project or simply just for consultation  👨‍💻️
+    I'm <strong>Ernest Bhekizwe Shongwe</strong>
+    </br><strong>Vosloorus, Johannesburg, South Africa</strong> 🇿🇦️
+    </br>👨‍💻️: Open to project collaborations
+    </br>👨‍🎓️: <strong>ALX</strong> | <strong>freeCodeCamp</strong> | <strong>Microsoft Learn</strong> | <strong>AWS educate</strong>
+    <br></br>
+    <div class="container">
+        <img align="left" alt="C" width="400px" height="325px" style="padding-right:100px;" src="skills.gif">
+    </div>
 </p>
 
 ![bshongwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=bshongwe&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bshongwe)](https://git.io/streak-stats)
 [![Codewars](https://www.codewars.com/users/bshongwe/badges/large)](https://www.codewars.com/users/bshongwe/)
-<br></br>
-
-👨‍🎓️: <strong>ALX</strong> | <strong>freeCodeCamp</strong> | <strong>Microsoft Learn<strong> | <strong>AWS educate</strong>
 <br></br>
 
 # **Interests**
@@ -19,18 +21,6 @@
     | Microservices | Responsive Web Design |
 
 # **🔩️Skills👨‍🔧️**
-<div class="container">
-    <img align="left" alt="C" width="400px" height="325px" style="padding-right:100px;" src="skills.gif">
-</div>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -83,7 +73,7 @@
 
 <br></br>
 
-<h6>Donate</h6>
+# <h6>Donate</h6>
 <p><a href="https://www.buymeacoffee.com/ebshongwe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" width="105" alt="ebshongwe" /></a></p>
 
 
