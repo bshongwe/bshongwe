@@ -2,7 +2,7 @@
 <p>
     I'm <strong>Ernest Bhekizwe Shongwe</strong>
     </br><strong>Vosloorus, Johannesburg, South Africa</strong> 🇿🇦️
-    </br>👨‍💻️: Open to project collaborations
+    </br>👨‍💻️: Open to project collaborations | Full Stack | Backend | JS enthusaist
     </br>👨‍🎓️: <strong>ALX</strong> | <strong>freeCodeCamp</strong> | <strong>Microsoft Learn</strong> | <strong>AWS educate</strong>
     <br></br>
     <div class="container">
