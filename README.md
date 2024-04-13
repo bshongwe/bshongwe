@@ -3,7 +3,12 @@
     I'm <strong>Ernest Bhekizwe Shongwe</strong>
     </br><strong>Vosloorus, Johannesburg, South Africa</strong> 🇿🇦️
     </br>👨‍💻️: Open to project collaborations | Full Stack | Backend | JS enthusaist
-    </br>👨‍🎓️: <strong>ALX</strong> | <strong>freeCodeCamp</strong> | <strong>Microsoft Learn</strong> | <strong>AWS educate</strong>
+    </br>👨‍🎓️:</br>
+    -    <strong>ALX Africa: <i>Software Engineering (Full Stack [Foundations], Specializations [Backend])</i></strong></br>
+    -    <strong>Coursera: <i>IBM Back-end JavaScript Developer Professional Certificate</i></strong></br>
+    -    <strong>freeCodeCamp: <i>Full Stack Software Engineering Certification</i></strong></br>
+    -    <strong>Microsoft Learn</strong></br>
+    -    <strong>AWS educate</strong>
     <br></br>
     <div class="container">
         <img align="left" alt="C" width="400px" height="325px" style="padding-right:100px;" src="skills.gif">
