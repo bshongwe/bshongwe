@@ -4,9 +4,9 @@
     </br><strong>Vosloorus, Johannesburg, South Africa</strong> 🇿🇦️ <br>
     </br>👨‍💻️: Open to project collaborations | Full Stack | Backend | JS enthusaist<br>
     </br>👨‍🎓️:</br>
-    -    <strong>ALX Africa: <i>Software Engineering (Full Stack [Foundations], Specializations [Backend])</i></strong></br>
-    -    <strong>Coursera: <i>IBM Back-end JavaScript Developer Professional Certificate</i></strong></br>
-    -    <strong>freeCodeCamp: <i>Full Stack Software Engineering Certification</i></strong></br>
+    -    <strong>ALX Africa:</strong> <i>Software Engineering (Full Stack [Foundations], Specializations [Backend])</i></br>
+    -    <strong>Coursera:</strong> <i>IBM Back-end JavaScript Developer Professional Certificate</i></br>
+    -    <strong>freeCodeCamp:</strong> <i>Full Stack Software Engineering Certification</i></br>
     -    <strong>Microsoft Learn</strong></br>
     -    <strong>AWS educate</strong>
     <br></br>
