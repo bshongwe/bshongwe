@@ -22,8 +22,7 @@
 
 # **Interests**
 ### Full Stack
-    | Back End | Front End | MERN/MEAN | APIs (REST & RESTful) | Cybersecurity | Databases | Quality Assurance |
-    | Microservices | Responsive Web Design |
+    | Back End | Front End | MERN/MEAN | APIs (RESTful) | Cybersecurity | Quality Assurance | Microservices | Responsive Web Design |
 
 # **🔩️Skills👨‍🔧️**
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" />
