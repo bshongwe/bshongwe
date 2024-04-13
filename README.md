@@ -1,8 +1,8 @@
 # Hi there... 🤓️
 <p>
     I'm <strong>Ernest Bhekizwe Shongwe</strong>
-    </br><strong>Vosloorus, Johannesburg, South Africa</strong> 🇿🇦️
-    </br>👨‍💻️: Open to project collaborations | Full Stack | Backend | JS enthusaist
+    </br><strong>Vosloorus, Johannesburg, South Africa</strong> 🇿🇦️ <br>
+    </br>👨‍💻️: Open to project collaborations | Full Stack | Backend | JS enthusaist<br>
     </br>👨‍🎓️:</br>
     -    <strong>ALX Africa: <i>Software Engineering (Full Stack [Foundations], Specializations [Backend])</i></strong></br>
     -    <strong>Coursera: <i>IBM Back-end JavaScript Developer Professional Certificate</i></strong></br>
@@ -16,7 +16,7 @@
 </p>
 
 ![bshongwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=bshongwe&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bshongwe)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bshongwe)](https://git.io/streak-stats) <br></br>
 [![Codewars](https://www.codewars.com/users/bshongwe/badges/large)](https://www.codewars.com/users/bshongwe/)
 <br></br>
 
