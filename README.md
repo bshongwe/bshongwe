@@ -2,7 +2,7 @@
 <p>
     I'm <strong>Ernest Bhekizwe Shongwe</strong>
     </br><strong>Vosloorus, Johannesburg, South Africa</strong> 🇿🇦️ <br>
-    </br>👨‍💻️: Open to project collaborations | Full Stack | Backend | JS enthusaist<br>
+    </br>👨‍💻️: Open to project collaborations | Full Stack | Backend | JS enthusaist | Software engineering consultation<br>
     </br>👨‍🎓️:</br>
     -    <strong>ALX Africa:</strong> <i>Software Engineering (Full Stack [Foundations], Specializations [Backend])</i></br>
     -    <strong>Coursera:</strong> <i>IBM Back-end JavaScript Developer Professional Certificate</i></br>
