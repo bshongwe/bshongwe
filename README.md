@@ -1,9 +1,13 @@
 # Hi there... 🤓️
 <p>
-    I'm <strong>Ernest Bhekizwe Shongwe</strong>
-    </br><strong>from Vosloorus, Johannesburg, South Africa</strong> 🇿🇦️ <br>
-    </br>👨‍💻️: Open to project collaborations | Full Stack | Backend | JS enthusaist | Software engineering consultant<br>
-    </br>👨‍🎓️:</br>
+    I'm <strong>Ernest Bhekizwe Shongwe </strong>from <strong>Vosloorus, Johannesburg, South Africa</strong> 🇿🇦️ <br>
+    </br>👨‍💻️ : Open to:</br>
+    -    project collaborations
+    -    Full Stack</br>
+            -    Backend</br>
+            -    JS enthusaist</br>
+            -    Software engineering consultantion<br>
+    </br>👨‍🎓️ :</br>
     -    <strong>ALX Africa:</strong> <i>Software Engineering (Full Stack [Foundations], Specializations [Backend])</i></br>
     -    <strong>Coursera:</strong> <i>IBM Back-end JavaScript Developer Professional Certificate</i></br>
     -    <strong>freeCodeCamp:</strong> <i>Full Stack Software Engineering Certification</i></br>
