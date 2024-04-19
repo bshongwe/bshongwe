@@ -11,8 +11,8 @@
     -    <strong>ALX Africa:</strong> <i>Software Engineering (Full Stack [Foundations], Specializations [Backend])</i></br>
     -    <strong>Coursera:</strong> <i>IBM Back-end JavaScript Developer Professional Certificate</i></br>
     -    <strong>freeCodeCamp:</strong> <i>Full Stack Software Engineering Certification</i></br>
-    -    <strong>Microsoft Learn</strong></br>
-    -    <strong>AWS educate</strong>
+    -    <strong>Microsoft Learn</strong> <i>Developer Certification learning path</i> </br>
+    -    <strong>AWS educate</strong> <i>Cloud Practitioner learning path</i>
     <br></br>
     <div class="container">
         <img align="left" alt="C" width="400px" height="325px" style="padding-right:100px;" src="skills.gif">
