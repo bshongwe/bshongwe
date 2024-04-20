@@ -2,7 +2,7 @@
 <p>
     I'm <strong>Ernest Bhekizwe Shongwe </strong>from <strong>Vosloorus, Johannesburg, South Africa</strong> 🇿🇦️ <br>
     </br>👨‍💻️ : Open to:</br>
-    -    project collaborations
+    -    project collaborations</br>
     -    Full Stack</br>
             -    Backend</br>
             -    JS enthusaist</br>
