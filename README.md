@@ -5,8 +5,8 @@
     -    project collaborations</br>
     -    Full Stack</br>
             -    Backend</br>
-            -    JS enthusaist</br>
-            -    Software engineering consultantion<br>
+            -    JavaScript discussions and project collaborations</br>
+            -    Software engineering consultation<br>
     </br>👨‍🎓️ :</br>
     -    <strong>ALX Africa:</strong> <i>Software Engineering (Full Stack [Foundations], Specializations [Backend])</i></br>
     -    <strong>Coursera:</strong> <i>IBM Back-end JavaScript Developer Professional Certificate</i></br>
