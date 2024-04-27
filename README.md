@@ -2,11 +2,10 @@
 <p>
     I'm <strong>Ernest Bhekizwe Shongwe </strong>from <strong>Vosloorus, Johannesburg, South Africa</strong> 🇿🇦️ <br>
     </br>👨‍💻️ : Open to:</br>
-    -    project collaborations</br>
-    -    Full Stack</br>
+    -    project collaborations & consulations:</br>
+            -    Full Stack</br>
             -    Backend</br>
-            -    JavaScript, Python, C/C++, C#, TypeScript discussions and project collaborations</br>
-            -    Software engineering consultation<br>
+            -    JavaScript, Python, C/C++, C#, TypeScript
     </br>👨‍🎓️ :</br>
     -    <strong>ALX Africa:</strong> <i>Software Engineering (Full Stack [Foundations], Specializations [Backend])</i></br>
     -    <strong>Coursera:</strong> <i>IBM Back-end JavaScript Developer Professional Certificate</i></br>
