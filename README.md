@@ -5,6 +5,8 @@
         -    Full Stack</br>
         -    Backend</br>
         -    JavaScript, Python, C/C++, C#, TypeScript
+        -    OpenSource contributions
+        -    AI projects
     <br></br>
     👨‍🎓️ :</br>
     -    <strong>ALX Africa:</strong> <i>Software Engineering (Full Stack [Foundations], Specializations [Backend])</i></br>
