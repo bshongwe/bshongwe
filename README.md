@@ -1,6 +1,6 @@
 # Hi there... 🤓️
 <p>
-    I'm <strong>Ernest Bhekizwe Shongwe </strong>from <strong>Vosloorus, Johannesburg, South Africa</strong> 🇿🇦️ <br>
+    I'm <b>Ernest Bhekizwe Shongwe</b> from <b><i>Vosloorus, Johannesburg, South Africa</i></b> 🇿🇦️ <br>
     </br>👨‍💻️ : Open to project collaborations & consulations:</br>
         -    Full Stack</br>
         -    Backend</br>
