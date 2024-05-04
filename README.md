@@ -4,7 +4,7 @@
     </br>👨‍💻️ : Open to project collaborations & consulations:</br>
         -    Full Stack</br>
         -    Backend</br>
-        -    JavaScript, Python, C/C++, C#, TypeScript</br>
+        -    including JavaScript, Python, C/C++, C#, TypeScript</br>
         -    OpenSource contributions</br>
         -    AI projects
     <br></br>
