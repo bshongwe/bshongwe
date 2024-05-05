@@ -4,7 +4,7 @@
     </br>👨‍💻️ : Open to project collaborations & consulations:</br>
         -    Full Stack</br>
         -    Backend</br>
-        -    including JavaScript, Python, C/C++, C#, TypeScript</br>
+        -    including <i>JavaScript, Python, C/C++, C#, TypeScript</i></br>
         -    OpenSource contributions</br>
         -    AI projects
     <br></br>
@@ -20,7 +20,6 @@
     </div>
 </p>
 
-![bshongwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=bshongwe&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bshongwe)](https://git.io/streak-stats) <br></br>
 [![Codewars](https://www.codewars.com/users/bshongwe/badges/large)](https://www.codewars.com/users/bshongwe/)
 <br></br>
