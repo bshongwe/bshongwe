@@ -27,19 +27,15 @@ I'm <b>Ernest Bhekizwe Shongwe</b> from <b><i>Vosloorus, Johannesburg, South Afr
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website, accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
+- 🔭 I'm currently pursuing my Software Engineering certification at ALX Africa
+- 📝 I write in-depth, long-form articles on my blog page
 
 ## My Articles
 - Check out my articles here [My Medium Blogs](https://medium.com/@shongwe.bhekizwe)
 
-
-## Tech Stack
-
-
 <br></br>
 
+## Tech Stack
 # **Interests**
 ### Full Stack
     | Back End | Front End | MERN/MEAN | APIs | Cybersecurity | Quality Assurance | Microservices | Responsive Web Design |
