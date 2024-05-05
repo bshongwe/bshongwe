@@ -36,7 +36,6 @@ I'm <b>Ernest Bhekizwe Shongwe</b> from <b><i>Vosloorus, Johannesburg, South Afr
 <br></br>
 
 ## Tech Stack
-# **Interests**
 ### Full Stack
     | Back End | Front End | MERN/MEAN | APIs | Cybersecurity | Quality Assurance | Microservices | Responsive Web Design |
 
