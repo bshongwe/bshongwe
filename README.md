@@ -1,7 +1,7 @@
 # Hi there... 🤓️
-<p>
-    I'm <b>Ernest Bhekizwe Shongwe</b> from <b><i>Vosloorus, Johannesburg, South Africa</i></b> 🇿🇦️ <br>
-    </br>👨‍💻️ : Open to project collaborations & consulations:</br>
+
+I'm <b>Ernest Bhekizwe Shongwe</b> from <b><i>Vosloorus, Johannesburg, South Africa</i></b> 🇿🇦️ <br>
+</br>👨‍💻️ : Open to project collaborations & consulations:</br>
         -    Full Stack</br>
         -    Backend</br>
         -    including <i>JavaScript, Python, C/C++, C#, TypeScript</i></br>
@@ -18,10 +18,26 @@
     <div class="container">
         <img align="left" alt="C" width="400px" height="325px" style="padding-right:100px;" src="skills.gif">
     </div>
-</p>
 
+
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=bshongwe&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bshongwe)](https://git.io/streak-stats) <br></br>
 [![Codewars](https://www.codewars.com/users/bshongwe/badges/large)](https://www.codewars.com/users/bshongwe/)
+
+
+## 🚀 About Me
+
+- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
+- 📝 I write in-depth, long-form articles on my website, accumulating over 20k views within just 2 months.
+- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
+
+## My Articles
+- Check out my articles here [My Medium Blogs](https://medium.com/@shongwe.bhekizwe)
+
+
+## Tech Stack
+
+
 <br></br>
 
 # **Interests**
