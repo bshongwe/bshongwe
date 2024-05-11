@@ -4,6 +4,7 @@ I'm <b>Ernest Bhekizwe Shongwe</b> from <b><i>Vosloorus, Johannesburg, South Afr
 </br>👨‍💻️ : Open to project collaborations & consulations:</br>
         -    Full Stack</br>
         -    Backend</br>
+        -    Frontend
         -    including <i>JavaScript, Python, C/C++, C#, TypeScript, Java</i></br>
         -    OpenSource contributions</br>
         -    AI projects
