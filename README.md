@@ -5,13 +5,12 @@ I'm <b>Ernest Bhekizwe Shongwe</b> from <b><i>Vosloorus, Johannesburg, South Afr
         -    Full Stack</br>
         -    Backend</br>
         -    Frontend
-        -    including <i>JavaScript, Python, C/C++, C#, TypeScript, Java</i></br>
+        -    including <i>JavaScript, Python, C/C++, C#, TypeScript, Java, PHP, Laravel</i></br>
         -    OpenSource contributions</br>
         -    AI projects
     <br></br>
     👨‍🎓️ :</br>
     -    <strong>ALX Africa:</strong> <i>Software Engineering (Full Stack [Foundations], Specializations [Backend])</i></br>
-    -    <strong>Coursera:</strong> <i>IBM Back-end JavaScript Developer Professional Certificate</i></br>
     -    <strong>freeCodeCamp:</strong> <i>Full Stack Software Engineering certifications</i></br>
     -    <strong>Microsoft Learn</strong> <i>Developer Certification learning path</i> </br>
     -    <strong>AWS educate</strong> <i>Cloud Practitioner learning path</i>
