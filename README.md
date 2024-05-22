@@ -27,7 +27,7 @@ I'm <b>Ernest Bhekizwe Shongwe</b> from <b><i>Vosloorus, Johannesburg, South Afr
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Software Engineering certification at ALX Africa
+- 🔭 I'm currently pursuing my Software Engineering certification at ALX Africa (and have also volunteered for code reviews, assisting technical mentors)
 - 📝 I write in-depth, long-form articles on my blog page
 
 ## My Articles
