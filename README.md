@@ -1,19 +1,10 @@
 # Hi there... 🤓️
 
-I'm <b>Ernest Bhekizwe Shongwe</b> from <b><i>Vosloorus, Johannesburg, South Africa</i></b> 🇿🇦️ <br>
-</br>👨‍💻️ : Open to project collaborations & consulations:</br>
-        -    Full Stack</br>
-        -    Backend</br>
-        -    Frontend</br>
-        -    including <i>JavaScript, Python, C/C++, C#, TypeScript, Java, PHP, Laravel</i></br>
-        -    OpenSource contributions: <i>check out my latest contribution on my repos</i></br>
-        -    AI projects
-    <br></br>
-    👨‍🎓️ :</br>
+I'm <b>Ernest Bhekizwe Shongwe</b> from <b><i>Vosloorus, Johannesburg, South Africa</i></b> 🇿🇦️ </br>
+👨‍💻️ Open to project collaborations & consulations</br>
+👨‍🎓️ :</br>
     -    <strong>ALX Africa:</strong> <i>Software Engineering (Full Stack [Foundations], Specializations [Backend])</i></br>
     -    <strong>freeCodeCamp:</strong> <i>Full Stack Software Engineering certifications</i></br>
-    -    <strong>Microsoft Learn</strong> <i>Developer Certification learning path</i> </br>
-    -    <strong>AWS educate</strong> <i>Cloud Practitioner learning path</i>
     <br></br>
     <div class="container">
         <img align="left" alt="C" width="400px" height="325px" style="padding-right:100px;" src="skills.gif">
