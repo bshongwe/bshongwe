@@ -20,7 +20,6 @@ I'm <b>Ernest Bhekizwe Shongwe</b> from <b><i>Vosloorus, Johannesburg, South Afr
 
 - 🔭 I'm currently pursuing my Software Engineering certification at ALX Africa (and have also volunteered for code reviews, assisting technical mentors)
 - I'm currently building my portfolio
-- 👨‍💻️ I'm attending Kalkey's DevOps Internship programme
 - 📝 I write in-depth, long-form articles on my blog page
 
 ## My Articles
