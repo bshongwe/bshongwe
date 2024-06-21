@@ -19,7 +19,7 @@ I'm <b>Ernest Bhekizwe Shongwe</b> from <b><i>Vosloorus, Johannesburg, South Afr
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Software Engineering certification at ALX Africa
-- I'm currently building [my portfolio](https://personal-portfolio-2024-green.vercel.app/)
+- 🔩️ I'm currently building [my portfolio](https://personal-portfolio-2024-green.vercel.app/)
 - 📝 I write in-depth, long-form articles on [my blog page](https://medium.com/@shongwe.bhekizwe)
 
 ## My Articles
