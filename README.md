@@ -21,7 +21,7 @@ I'm working on my ALX SE Backend graduation project</br>
 
 - 🔭 I'm currently pursuing my Software Engineering certification at ALX Africa
 - 🔩️ I'm currently building [my portfolio](https://personal-portfolio-2024-green.vercel.app/)
-- 📝 I write in-depth, long-form articles on [my blog page](https://medium.com/@shongwe.bhekizwe)
+- 📝 I write blog articles on [my blog page](https://medium.com/@shongwe.bhekizwe)
 
 ## My Articles
 - Check out my articles here [My Medium Blogs](https://medium.com/@shongwe.bhekizwe)
