@@ -5,7 +5,8 @@ I'm working on my ALX SE Backend graduation project (NeXtro)</br>
 👨‍💻️ Open to project collaborations & consulations</br>
 👨‍🎓️ <strong>ALX Africa:</strong> <i>Software Engineering (Full Stack [Foundations], Specializations [Backend])</i></br>
 👨‍🎓️ <strong>freeCodeCamp:</strong> <i>Full Stack Software Engineering certifications</i></br>
-👨‍🎓️: I am currently teaching myself R-programming via Datacamp
+👨‍🎓️: I am currently teaching myself R-programming via Datacamp</br>
+👨‍💻️: I do Leet Code Challenges
     <br></br>
     <div class="container">
         <img align="left" alt="C" width="400px" height="325px" style="padding-right:100px;" src="skills.gif">
