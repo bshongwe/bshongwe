@@ -1,7 +1,7 @@
 # Hi there... 🤓️
 
 I'm <b>Ernest Bhekizwe Shongwe</b> from <b><i>Vosloorus, Johannesburg, South Africa, but reside in Boksburg North, Boksburg, Johannesburg, South Africa</i></b> 🇿🇦️ </br>
-👨‍💻️ I'm working on my ALX SE Backend graduation project (NeXtro)</br>
+👨‍💻️ I'm working on my ALX SE Backend graduation project, [NeXtro](https://github.com/bshongwe/nextro) </br>
 👨‍💻️ Open to project collaborations & consulations</br>
 👨‍🎓️ <strong>ALX Africa:</strong> <i>Software Engineering (Full Stack [Foundations], Specializations [Backend])</i></br>
 👨‍🎓️ <strong>freeCodeCamp:</strong> <i>Full Stack Software Engineering certifications</i></br>
