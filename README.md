@@ -4,7 +4,7 @@ I'm <b>Ernest Bhekizwe Shongwe</b> from <b><i>Vosloorus, Johannesburg, South Afr
 <br></br>
 👨‍💻️ I'm working on my final ALX SE Backend graduation project, [NeXtro](https://github.com/bshongwe/nextro), a MERN stack eCommerce platform
 <br></br>
-👨‍💻️ I completed [Nestec](https://github.com/bshongwe/nestec), an agriculture, full stack app for my final ALX SE Foundations verification project
+👨‍💻️ I completed [Nestec](https://github.com/bshongwe/Nestec_farm-app), an agriculture, full stack app for my final ALX SE Foundations verification project
 <br></br>
 👨‍💻️ Open to project collaborations & consulations</br>
 👨‍🎓️ <strong>ALX Africa:</strong> <i>Software Engineering (Full Stack [Foundations], Specializations [Backend])</i></br>
