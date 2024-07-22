@@ -7,8 +7,8 @@ I'm <b>Ernest Bhekizwe Shongwe</b> from <b><i>Vosloorus, Johannesburg, South Afr
 👨‍💻️ Also check out [Nestec](https://github.com/bshongwe/Nestec_farm-app), an agriculture, full stack app for my final ALX SE Foundations verification project
 <br></br>
 👨‍💻️ Open to project collaborations & consulations</br>
+👨‍🎓️ <strong>ALX Africa:</strong> <i>Software Engineering (Full Stack [Foundations], Specializations [Backend]) (completed)</i></br>
 👨‍🎓️ <strong>Headstarter:</strong> <i> Software Engineering Fellowship</i></br>
-👨‍🎓️ <strong>ALX Africa:</strong> <i>Software Engineering (Full Stack [Foundations], Specializations [Backend])</i></br>
 👨‍🎓️ <strong>freeCodeCamp:</strong> <i>Full Stack Software Engineering certifications</i></br>
 👨‍🎓️: I am currently teaching myself R-programming via Datacamp</br>
 👨‍💻️: I am attempting Leet Code Challenges, as well as Algo Expert Challenges
