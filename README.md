@@ -9,8 +9,8 @@ I'm <b>Ernest Bhekizwe Shongwe</b> from <b><i>Vosloorus, Johannesburg, South Afr
 👨‍🎓️ <strong>Headstarter:</strong> <i> Software Engineering Fellowship</i></br>
 👨‍🎓️ <strong>freeCodeCamp:</strong> <i>Full Stack Software Engineering certifications</i>
 <br></br>
-👨‍🎓️: I am currently teaching myself R-programming via Datacamp</br>
-👨‍💻️: I am attempting Leet Code Challenges, as well as Algo Expert Challenges
+👨‍🎓️: I am currently teaching myself <b>R-programming</b> via <i>Datacamp</i></br>
+👨‍💻️: I am attempting <b>Leet Code Challenges</b>, as well as <b>Algo Expert Challenges</b>
     <br></br>
     <div class="container">
         <img align="left" alt="C" width="400px" height="325px" style="padding-right:100px;" src="skills.gif">
