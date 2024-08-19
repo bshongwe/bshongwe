@@ -2,7 +2,7 @@
 
 I'm <b>Ernest Bhekizwe Shongwe</b> from <b><i>Vosloorus, Johannesburg, South Africa, but reside in Boksburg North, Boksburg, Johannesburg, South Africa</i></b> 🇿🇦️
 <br></br>
-👨‍💻️ I am open to project collaborations & consulations, either in-person or remote. Kindly use the contact details provided
+👨‍💻️ I am open to project collaborations & consulations, either in-person or remote. Kindly use the contact details provided here
 <br></br>
 👨‍💻️ Check out my final ALX SE Backend graduation project, [NeXtro](https://github.com/bshongwe/nextro), a MERN stack eCommerce platform</br>
 👨‍💻️ Also check out [Nestec](https://github.com/bshongwe/Nestec_farm-app), an agriculture, full stack app for my final ALX SE Foundations verification project</br>
