@@ -26,7 +26,7 @@ I'm <b>Ernest Bhekizwe Shongwe</b> from <b><i>Vosloorus, Johannesburg, South Afr
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Software Engineering certification at ALX Africa and Software Engineering Fellowship in Artificial Intelligence at Headster
+- 🔭 I'm currently pursuing my Software Engineering Fellowship in Artificial Intelligence at Headster
 - 🔩️ I'm currently building [my portfolio](https://personal-portfolio-2024-green.vercel.app/)
 - 📝 I write blog articles on [my blog page](https://medium.com/@shongwe.bhekizwe)
 
