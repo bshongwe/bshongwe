@@ -1,6 +1,6 @@
 # Hi there... 🤓️
 
-I'm <b>Ernest Bhekizwe Shongwe</b> from <b><i>Vosloorus, Johannesburg, South Africa, but reside in Boksburg North, Boksburg, Johannesburg, South Africa</i></b> 🇿🇦️
+I'm <b>Ernest Bhekizwe Shongwe</b> from <b><i>Vosloorus, Johannesburg, South Africa, but reside in Boksburg, Johannesburg, South Africa</i></b> 🇿🇦️
 <br></br>
 👨‍💻️ I am open to project collaborations & consulations, either in-person or remote. Kindly use the contact details provided
 <br></br>
