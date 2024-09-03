@@ -4,8 +4,8 @@ I'm <b>Ernest Bhekizwe Shongwe</b> from <b><i>Vosloorus, Johannesburg, South Afr
 <br></br>
 👨‍💻️ I am open to project collaborations & consulations, either in-person or remote. Kindly use the contact details provided
 <br></br>
-👨‍💻️ Check out my final ALX SE Backend graduation project, [NeXtro](https://github.com/bshongwe/nextro), a MERN stack eCommerce platform</br>
-👨‍💻️ Also check out [Nestec](https://github.com/bshongwe/Nestec_farm-app), an agriculture, full stack app for my final ALX SE Foundations verification project</br>
+👨‍💻️ Check out my final ALX SE Backend graduation project, [NeXtro](https://github.com/bshongwe/nextro)</br>
+👨‍💻️ Also check out [Nestec](https://github.com/bshongwe/Nestec_farm-app), my final ALX SE Foundations verification project</br>
 👨‍💻️ Plus, check out my other [portfolio projects](http://ernestshong.tech/)
 <br></br>
 👨‍🎓️: I am currently teaching myself <b>R-programming</b> via <i>Datacamp</i></br>
