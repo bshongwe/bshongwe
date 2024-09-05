@@ -4,13 +4,6 @@ I'm <b>Ernest Bhekizwe Shongwe</b> from <b><i>Vosloorus, Johannesburg, South Afr
 <br></br>
 👨‍💻️ I am open to project collaborations & consulations, either in-person or remote. Kindly use the contact details provided
 <br></br>
-👨‍💻️ Check out my final ALX SE Backend graduation project, [NeXtro](https://github.com/bshongwe/nextro)</br>
-👨‍💻️ Also check out [Nestec](https://github.com/bshongwe/Nestec_farm-app), my final ALX SE Foundations verification project</br>
-👨‍💻️ Plus, check out my other [portfolio projects](http://ernestshong.tech/)
-<br></br>
-👨‍🎓️: I am currently teaching myself <b>R-programming</b> via <i>Datacamp</i></br>
-👨‍💻️: I am attempting <b>Leet Code Challenges</b>, as well as <b>Algo Expert Challenges</b>
-    <br></br>
     <div class="container">
         <img align="left" alt="C" width="400px" height="325px" style="padding-right:100px;" src="skills.gif">
     </div>
