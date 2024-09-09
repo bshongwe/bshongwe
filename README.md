@@ -4,10 +4,6 @@ I'm <b>Ernest Bhekizwe Shongwe</b> from <b><i>Vosloorus, Johannesburg, South Afr
 <br></br>
 👨‍💻️ I am open to project collaborations & consulations, either in-person or remote. Kindly use the contact details provided
 <br></br>
-    <div class="container">
-        <img align="left" alt="C" width="400px" height="325px" style="padding-right:100px;" src="skills.gif">
-    </div>
-
 
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=bshongwe&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bshongwe)](https://git.io/streak-stats) <br></br>
