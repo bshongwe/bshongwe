@@ -42,15 +42,7 @@ I'm **Ernest Bhekizwe Shongwe** from **Vosloorus, Johannesburg, South Africa**, 
 
 <br></br>
 ## 🔥 Featured Projects
-
-### [NeXtro - eCommerce Platform](https://github.com/bshongwe/NeXtro)
-A MERN stack eCommerce web application with features like product filtering, cart management, secure checkout (Stripe & PayPal), and admin dashboards.
-
-### [Pantry Tracker](https://github.com/bshongwe/pantry-tracker)
-A Next.js, Firebase, and AI-powered pantry tracking app, featuring automated item categorization and recipe suggestions.
-
-### [Simple Shell](https://github.com/bshongwe/simple-shell)
-A Unix-based simple shell created for command-line learning, written in C.
+Kindly check the pinned ones. Othersise, you may go through my repos
 
 ---
 
