@@ -12,7 +12,7 @@ I'm **Ernest Bhekizwe Shongwe** from **Vosloorus, Johannesburg, South Africa**, 
 
 ## 🚀 About Me
 
-- 🔭 I'm currently building AI projects as a **Software Engineering Resident** at [Headster](https://app.theheadstarter.com/accelerator).
+- 🔭 I'm currently building AI projects as a **Software Engineering Resident** at [Headstarter](https://app.theheadstarter.com/accelerator).
 - 💻 Developing cloud & software solutions at [KalKey](https://kalkey.com/).
 - 🔩 Building [my portfolio](http://ernestshong.tech/).
 - 📝 Writing articles on [Medium](https://medium.com/@shongwe.bhekizwe).
@@ -22,7 +22,7 @@ I'm **Ernest Bhekizwe Shongwe** from **Vosloorus, Johannesburg, South Africa**, 
 ## 🏆 Achievements & Certifications
 - 📜 AWS Certified Solutions Architect
 - 📜 Google Cloud Professional Cloud Architect
-- 🏅 Valedictorian at ALX Software Engineering Program
+- 🏅 Valedictorian at ALX Africa for the ALX Software Engineering Program
 
 ---
 
