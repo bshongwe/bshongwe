@@ -20,8 +20,8 @@ I'm **Ernest Bhekizwe Shongwe** from **Vosloorus, Johannesburg, South Africa**, 
 ---
 
 ## 🏆 Achievements & Certifications
-- 📜 AWS Certified Solutions Architect
-- 📜 Google Cloud Professional Cloud Architect
+- 📜 AWS credentials
+- 📜 Google Cloud credentials
 - 🏅 Valedictorian at ALX Africa for the ALX Software Engineering Program
 
 ---
@@ -37,7 +37,7 @@ I'm **Ernest Bhekizwe Shongwe** from **Vosloorus, Johannesburg, South Africa**, 
 | **DevOps and Cloud Tech**   | <img alt="AWS" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/> <img alt="Azure" width="25px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original.svg"/> <img alt="Docker" width="25px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg"/> <img alt="Kubernetes" width="25px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kubernetes/kubernetes-plain.svg"/> <img alt="Terraform" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"/> <img alt="Heroku" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"/> <img alt="GCP" width="25px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/googlecloud/googlecloud-original.svg"/> |
 | **Version Control**         | <img alt="Git" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> <img alt="GitHub" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img alt="GitLab" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/> |
 | **Testing Frameworks**      | <img alt="Mocha" width="25px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mocha/mocha-plain.svg"/> <img alt="Jest" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/> <img alt="Selenium" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/> |
-| **AI/ML Technologies**      | <img alt="TensorFlow" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/> <img alt="PyTorch" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/> |
+| **AI/ML Technologies**      | <img alt="TensorFlow" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/> <img alt="PyTorch" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/> <img alt="Google Colab" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"/> |
 | **Others (Tools/Platforms)**| <img alt="Vim" width="25px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vim/vim-original.svg"/> <img alt="VS Code" width="25px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg"/> <img alt="IntelliJ" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/> <img alt="Linux" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> <img alt="Bash" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> |
 
 <br></br>
