@@ -22,6 +22,7 @@ I'm **Ernest Bhekizwe Shongwe** from **Vosloorus, Johannesburg, South Africa**, 
 ## 🏆 Achievements & Certifications
 - 📜 AWS credentials
 - 📜 Google Cloud credentials
+- - 📜 freeCodeCamp credentials
 - 🏅 Valedictorian at ALX Africa for the ALX Software Engineering Program
 
 ---
