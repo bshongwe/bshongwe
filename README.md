@@ -12,18 +12,20 @@ I'm **Ernest Bhekizwe Shongwe** from **Vosloorus, Johannesburg, South Africa**, 
 
 ## 🚀 About Me
 
-- 🔭 I'm currently building AI projects as a **Software Engineering Resident** at [Headstarter](https://app.theheadstarter.com/accelerator).
-- 💻 Developing cloud & software solutions at [KalKey](https://kalkey.com/).
-- 🔩 Building [my portfolio](http://ernestshong.tech/).
-- 📝 Writing articles on [Medium](https://medium.com/@shongwe.bhekizwe).
+- 🔭 I'm currently building full-stack AI projects:
+- - 💻 as a **Backend Engineer** at [Beqy.ai](https://www.beqy.co.za)
+  - 💻 Developing cloud & software solutions at [KalKey](https://kalkey.com/)
+  - 💻 as a **Software Engineering Resident** at [Headstarter](https://app.theheadstarter.com/accelerator)
+- 🔩 Building [my portfolio](http://ernestshong.tech/)
+- 📝 Writing articles on [Medium](https://medium.com/@shongwe.bhekizwe)
 
 ---
 
 ## 🏆 Achievements & Certifications
 - 📜 AWS credentials
 - 📜 Google Cloud credentials
-- - 📜 freeCodeCamp credentials
-- 🏅 Valedictorian at ALX Africa for the ALX Software Engineering Program
+- 📜 freeCodeCamp credentials
+- 🏅 Valedictorian at [ALX Africa](https:www.alxafrica.com) for the ALX Software Engineering Program
 
 ---
 
