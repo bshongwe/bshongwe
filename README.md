@@ -1,6 +1,6 @@
 # Hi there! 🤓
 
-I'm **Ernest Bhekizwe Shongwe** from **Vosloorus, Johannesburg, South Africa**, currently residing in **Boksburg, Johannesburg, South Africa** 🇿🇦.
+I'm **Ernest Bhekizwe Shongwe** from **Vosloorus, Johannesburg, South Africa**, currently residing in **Sandton, Johannesburg, South Africa** 🇿🇦.
 
 👨‍💻 I'm open to project collaborations and consultations, either in-person or remote. Feel free to reach out using the contact details below.
 
