@@ -11,10 +11,10 @@ def fetch_social_media_data():
     """
     # Example URLs and API keys
     twitter_api_url = (
-        "https://api.twitter.com/2/tweets?ids=YOUR_TWEET_ID"
+        "https://api.twitter.com/2/tweets?ids=ernest_b_shong"
     )
     instagram_api_url = (
-        "https://graph.instagram.com/YOUR_USER_ID"
+        "https://graph.instagram.com/ernest_b_shong"
         "?fields=id,username&access_token=YOUR_ACCESS_TOKEN"
     )
 
