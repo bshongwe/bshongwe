@@ -6,7 +6,7 @@ import requests
 
 def fetch_social_media_data():
     """
-    Fetch data from Twitter and Instagram APIs and save to a JSON file.
+    Fetch data from Twitter, Instagram APIs, and GitHub contributions, and save to a JSON file.
     """
     # Example URLs and API keys (replace with your actual keys)
     twitter_api_url = (
@@ -15,6 +15,9 @@ def fetch_social_media_data():
     instagram_api_url = (
         "https://graph.instagram.com/ernest_b_shong"
         "?fields=id,username&access_token=YOUR_ACCESS_TOKEN"
+    )
+    github_api_url = (
+        "https://api.github.com/repos/bshongwe/bshongwe/commits?author=bshongwe"
     )
 
     headers = {
@@ -37,9 +40,18 @@ def fetch_social_media_data():
         print(f"Error fetching Instagram data: {e}")
         instagram_data = {}
 
+    try:
+        github_response = requests.get(github_api_url)
+        github_response.raise_for_status()
+        github_data = github_response.json()
+    except requests.exceptions.RequestException as e:
+        print(f"Error fetching GitHub data: {e}")
+        github_data = {}
+
     data = {
         "twitter": twitter_data,
         "instagram": instagram_data,
+        "github": github_data,
     }
 
     with open("social_data.json", "w") as file:
