@@ -20,7 +20,7 @@ I'm **Ernest Bhekizwe Shongwe** from **Vosloorus, Johannesburg, South Africa**, 
 
 - 🔭 I'm currently building full-stack AI projects:
 - - 💻 as a **Backend Engineer** at [Beqy.ai](https://www.beqy.co.za)
-  - 💻 Developing cloud & software solutions at [KalKey](https://kalkey.com/)
+  - 💻 Developing cloud & software solutions (SaaS) at [KalKey](https://kalkey.com/)
   - 💻 as a **Software Engineering Resident** at [Headstarter](https://app.theheadstarter.com/accelerator)
 - 🔩 Building [my portfolio](http://ernestshong.tech/)
 - 📝 Writing articles on [Medium](https://medium.com/@shongwe.bhekizwe)
