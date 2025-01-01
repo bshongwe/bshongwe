@@ -65,9 +65,11 @@ Kindly check the pinned ones. Othersise, you may go through my repos
 ## 🌐 Connect with Me
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="25"/>](https://github.com/bshongwe)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="25"/>](https://github.com/ernest-beqy)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="25"/>](https://www.linkedin.com/in/ernest-shongwe/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="25" style="fill:#1DA1F2"/>](https://twitter.com/ernest_b_shong)
 [<img src="https://img.icons8.com/ios-glyphs/30/FF0000/email.png" alt="Email" width="25"/>](mailto:shongwe.bhekizwe@yahoomail.com)
+[<img src="https://img.icons8.com/ios-glyphs/30/FF0000/email.png" alt="Email" width="25"/>](mailto:ernest@beqy.co.za)
 
 ---
 
