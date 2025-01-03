@@ -8,7 +8,7 @@
 
 I'm **Ernest Bhekizwe Shongwe** from **Vosloorus, Johannesburg, South Africa**, currently in **Sandton, Johannesburg, South Africa** 🇿🇦.
 
-👨‍💻 I'm open to job offers, project collaborations and consultations. Feel free to reach out using the contact details below.
+👨‍💻 I'm open to project collaborations and consultations. Recruiters are most welcome. Feel free to reach out using the contact details below.
 
 [![An image of @ernestbshong's Holopin badges, which is a link to view the ir full Holpin profile](https://holopin.me/ernestbshong)](https://holopin.io/@ernestbshong)
 [![Codewars](https://www.codewars.com/users/bshongwe/badges/large)](https://www.codewars.com/users/bshongwe/)  
