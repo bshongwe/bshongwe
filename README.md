@@ -8,7 +8,7 @@
 
 I'm **Ernest Bhekizwe Shongwe** from **Vosloorus, Johannesburg, South Africa**, currently in **Sandton, Johannesburg, South Africa** 🇿🇦.
 
-👨‍💻 I'm open to project collaborations and consultations. Recruiters are most welcome. Feel free to reach out using the contact details below.
+👨‍💻 I am open to project collaborations and consultations. Recruiters are most welcome. Feel free to reach out using the contact details below.
 
 [![An image of @ernestbshong's Holopin badges, which is a link to view the ir full Holpin profile](https://holopin.me/ernestbshong)](https://holopin.io/@ernestbshong)
 [![Codewars](https://www.codewars.com/users/bshongwe/badges/large)](https://www.codewars.com/users/bshongwe/)  
@@ -18,7 +18,7 @@ I'm **Ernest Bhekizwe Shongwe** from **Vosloorus, Johannesburg, South Africa**, 
 
 ## 🚀 About Me
 
-- 🔭 I'm currently building full-stack AI projects:
+- 🔭 Currently building full-stack AI projects:
 - - 💻 as a **Backend Engineer** at [Beqy.ai](https://www.beqy.co.za)
   - 💻 Developing cloud & software solutions (SaaS) at [KalKey](https://kalkey.com/)
   - 💻 as a **Software Engineering Resident** at [Headstarter](https://app.theheadstarter.com/accelerator)
