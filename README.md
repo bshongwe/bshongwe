@@ -5,10 +5,11 @@
 ![GitHub License](https://img.shields.io/github/license/bshongwe/bshongwe)
 
 # Hi there! 🤓
+**Welcome to my GitHub. I'm Ernest Bhekizwe Shongwe.**
 
-I'm **Ernest Bhekizwe Shongwe** from **Vosloorus, Johannesburg, South Africa**, currently in **Sandton, Johannesburg, South Africa** 🇿🇦.
-
-👨‍💻 I am open to project collaborations and consultations. Recruiters are most welcome. Feel free to reach out using the contact details below.
+🌍 **Location:** Currently in Sandton, Johannesburg, South Africa 🇿🇦  
+💼 **Open to:** Project collaborations, consultations and job opportunities.
+👨‍💻 Feel free to reach out using the contact details below.
 
 [![An image of @ernestbshong's Holopin badges, which is a link to view the ir full Holpin profile](https://holopin.me/ernestbshong)](https://holopin.io/@ernestbshong)
 [![Codewars](https://www.codewars.com/users/bshongwe/badges/large)](https://www.codewars.com/users/bshongwe/)  
@@ -17,13 +18,17 @@ I'm **Ernest Bhekizwe Shongwe** from **Vosloorus, Johannesburg, South Africa**, 
 ---
 
 ## 🚀 About Me
+I'm a passionate **Software Engineer** and **AI Enthusiast** with a mission to create impactful digital solutions. With a strong foundation in **full-stack development** and **cloud technologies**, I thrive in building scalable, efficient, and innovative applications.
 
-- 🔭 Currently building full-stack AI projects:
-- - 💻 as a **Backend Engineer** at [Beqy.ai](https://www.beqy.co.za)
-  - 💻 Developing cloud & software solutions (SaaS) at [KalKey](https://kalkey.com/)
-  - 💻 as a **Software Engineering Resident** at [Headstarter](https://app.theheadstarter.com/accelerator)
-- 🔩 Building [my portfolio](http://ernestshong.tech/)
-- 📝 Writing articles on [Medium](https://medium.com/@shongwe.bhekizwe)
+### 🔭 Current Roles:
+- **Backend Engineer** at [Beqy.ai](https://www.beqy.co.za)  
+- **Software Engineering Resident** at [Headstarter](https://app.theheadstarter.com/accelerator)  
+- Building cloud solutions at [KalKey](https://kalkey.com/)  
+
+### 🌟 Fun Facts:
+- 🏅 Valedictorian, [ALX Africa Software Engineering Program](https://www.alxafrica.com)  
+- 📝 Writing about tech on [Medium](https://medium.com/@shongwe.bhekizwe)  
+- 🎨 Combining creativity with code in my [portfolio](http://ernestshong.tech/) 
 
 ---
 
@@ -31,7 +36,10 @@ I'm **Ernest Bhekizwe Shongwe** from **Vosloorus, Johannesburg, South Africa**, 
 - 📜 AWS credentials
 - 📜 Google Cloud credentials
 - 📜 freeCodeCamp credentials
-- 🏅 Valedictorian at [ALX Africa](https:www.alxafrica.com) for the ALX Software Engineering Program
+
+- **Recognition:**  
+  - 🏅 Featured Valedictorian at [ALX Africa](https:www.alxafrica.com) for the ALX Software Engineering Program
+  - Contributor to several open-source projects 
 
 ---
 
@@ -62,14 +70,16 @@ Kindly check the pinned ones. Othersise, you may go through my repos
 
 ---
 
-## 🌐 Connect with Me
+## 🌐📫 Let's Connect!  
+Feel free to reach out if you'd like to collaborate or discuss exciting opportunities!  
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="25"/>](https://github.com/bshongwe)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="25"/>](https://github.com/ernest-beqy)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="25"/>](https://www.linkedin.com/in/ernest-shongwe/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="25" style="fill:#1DA1F2"/>](https://twitter.com/ernest_b_shong)
-[<img src="https://img.icons8.com/ios-glyphs/30/FF0000/email.png" alt="Email" width="25"/>](mailto:shongwe.bhekizwe@yahoomail.com)
-[<img src="https://img.icons8.com/ios-glyphs/30/FF0000/email.png" alt="Email" width="25"/>](mailto:ernest@beqy.co.za)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ernest%20Shongwe-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ernestbshongwe)
+[![Email](https://img.shields.io/badge/Email-bshongwe%40gmail.com-red?style=flat&logo=gmail)](mailto:bshongwe@gmail.com)
+[![Email](https://img.shields.io/badge/Email-bshongwe%40beqy.co.za-red?style=flat&logo=gmail)](mailto:ernest@beqy.co.za)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ernestshong.tech-green?style=flat&logo=google-chrome)](http://ernestshong.tech/) </br>
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="25" style="fill:#1DA1F2"/>](https://twitter.com/ernest_b_shong) **Twitter** </br>
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="25"/>](https://github.com/bshongwe) **Main GitHub** </br>
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="25"/>](https://github.com/ernest-beqy) **Work GitHub**
 
 ---
 
@@ -79,6 +89,15 @@ Kindly check the pinned ones. Othersise, you may go through my repos
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="Buy Me A Coffee">
 </a>
 
+---
+
+## 🌟 Quote of the Day  
+*"The best way to predict the future is to invent it."*  
+– Alan Kay
+
+---
+
+Thank you for visiting my profile! Feel free to check out my repositories and reach out for collaborations! 🚀
 
 <!---
 bshongwe/bshongwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
