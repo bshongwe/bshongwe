@@ -8,7 +8,12 @@
 **Welcome to my GitHub. I'm Ernest Bhekizwe Shongwe.**
 
 🌍 **Location:** Currently in Sandton, Johannesburg, South Africa 🇿🇦  
-💼 **Open to:** Project collaborations, consultations and job opportunities.
+
+💼 **Open to:**
+- Project collaborations
+- consultations
+- job opportunities
+
 👨‍💻 Feel free to reach out using the contact details below.
 
 [![An image of @ernestbshong's Holopin badges, which is a link to view the ir full Holpin profile](https://holopin.me/ernestbshong)](https://holopin.io/@ernestbshong)
