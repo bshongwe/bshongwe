@@ -43,7 +43,8 @@ I'm a passionate **Software Engineer** and **AI Enthusiast** with a mission to c
 
 - **Recognition:**  
   - 🏅 Featured Valedictorian at [ALX Africa](https:www.alxafrica.com) for the ALX Software Engineering Program
-  - Contributor to several open-source projects 
+  - Contributor to several open-source projects
+  - Built a robust 13-job, multi-tasked CI/CD pipeline at [Beqy.ai](https://beqy.ai) for a Microsoft Azure and AWS deployment
 
 ---
 
