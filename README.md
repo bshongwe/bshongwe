@@ -12,7 +12,6 @@
 💼 **Open to:**
 - Project collaborations
 - consultations
-- job opportunities
 
 👨‍💻 Feel free to reach out using the contact details below.
 
