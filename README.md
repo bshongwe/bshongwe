@@ -26,14 +26,10 @@
 ## 🚀 About Me
 I'm a passionate **Software Engineer** and **AI Enthusiast** with a mission to create impactful digital solutions. With a strong foundation in **full-stack development** and **cloud technologies**, I thrive in building scalable, efficient, and innovative applications.
 
-<br></br>
-
 ### 🔭 Current Roles:
 - **Backend Engineer** at [Beqy.ai](https://www.beqy.co.za)  
 - **Software Engineering Resident** at [Headstarter](https://app.theheadstarter.com/accelerator)  
 - Building cloud solutions at [KalKey](https://kalkey.com/)  
-
-<br></br>
 
 ### 🌟 Fun Facts:
 - 🏅 Valedictorian, [ALX Africa Software Engineering Program](https://www.alxafrica.com)  
@@ -48,8 +44,6 @@ I'm a passionate **Software Engineer** and **AI Enthusiast** with a mission to c
 - 📜 AWS credentials
 - 📜 Google Cloud credentials
 - 📜 freeCodeCamp credentials
-
-<br></br>
 
 - **Recognition:**  
   - 🏅 Featured Valedictorian at [ALX Africa](https:www.alxafrica.com) for the ALX Software Engineering Program
