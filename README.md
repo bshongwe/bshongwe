@@ -79,12 +79,12 @@ Kindly check the pinned ones. Othersise, you may go through my repos
 Feel free to reach out if you'd like to collaborate or discuss exciting opportunities!  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ernest%20Shongwe-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ernestbshongwe)
-[![Email](https://img.shields.io/badge/Email-bshongwe%40gmail.com-red?style=flat&logo=gmail)](mailto:bshongwe@gmail.com)
-[![Email](https://img.shields.io/badge/Email-bshongwe%40beqy.co.za-red?style=flat&logo=gmail)](mailto:ernest@beqy.co.za)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ernestshong.tech-green?style=flat&logo=google-chrome)](http://ernestshong.tech/) </br>
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="25" style="fill:#1DA1F2"/>](https://twitter.com/ernest_b_shong) **Twitter** </br>
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="25"/>](https://github.com/bshongwe) **Main GitHub** </br>
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="25"/>](https://github.com/ernest-beqy) **Work GitHub**
+[![Email](https://img.shields.io/badge/Email-FF0000?style=flat-square&logo=gmail&logoColor=white)](mailto:shongwe.bhekizwe@yahoomail.com)
+[![Email](https://img.shields.io/badge/Email-FF0000?style=flat-square&logo=gmail&logoColor=white)](mailto:ernest@beqy.co.za)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ernestshong.tech-green?style=flat&logo=google-chrome)](http://ernestshong.tech/)ai-deployment-pipeline
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ernest_b_shong) </br>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/bshongwe) **Main GitHub** </br>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/ernest-beqy) **Work GitHub**
 
 ---
 
