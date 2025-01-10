@@ -16,18 +16,24 @@
 👨‍💻 Feel free to reach out using the contact details below.
 
 [![An image of @ernestbshong's Holopin badges, which is a link to view the ir full Holpin profile](https://holopin.me/ernestbshong)](https://holopin.io/@ernestbshong)
-[![Codewars](https://www.codewars.com/users/bshongwe/badges/large)](https://www.codewars.com/users/bshongwe/)  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bshongwe)](https://git.io/streak-stats)
+[![Codewars](https://www.codewars.com/users/bshongwe/badges/large)](https://www.codewars.com/users/bshongwe/)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bshongwe)](https://git.io/streak-stats)
 
 ---
 
+<br></br>
+
 ## 🚀 About Me
 I'm a passionate **Software Engineer** and **AI Enthusiast** with a mission to create impactful digital solutions. With a strong foundation in **full-stack development** and **cloud technologies**, I thrive in building scalable, efficient, and innovative applications.
+
+<br></br>
 
 ### 🔭 Current Roles:
 - **Backend Engineer** at [Beqy.ai](https://www.beqy.co.za)  
 - **Software Engineering Resident** at [Headstarter](https://app.theheadstarter.com/accelerator)  
 - Building cloud solutions at [KalKey](https://kalkey.com/)  
+
+<br></br>
 
 ### 🌟 Fun Facts:
 - 🏅 Valedictorian, [ALX Africa Software Engineering Program](https://www.alxafrica.com)  
@@ -36,10 +42,14 @@ I'm a passionate **Software Engineer** and **AI Enthusiast** with a mission to c
 
 ---
 
+<br></br>
+
 ## 🏆 Achievements & Certifications
 - 📜 AWS credentials
 - 📜 Google Cloud credentials
 - 📜 freeCodeCamp credentials
+
+<br></br>
 
 - **Recognition:**  
   - 🏅 Featured Valedictorian at [ALX Africa](https:www.alxafrica.com) for the ALX Software Engineering Program
@@ -47,6 +57,8 @@ I'm a passionate **Software Engineer** and **AI Enthusiast** with a mission to c
   - Built a robust 13-job, multi-tasked CI/CD pipeline at [Beqy.ai](https://beqy.ai) for a Microsoft Azure and AWS deployment
 
 ---
+
+<br></br>
 
 ## 🔩 Skills 👨‍🔧
 
@@ -63,10 +75,13 @@ I'm a passionate **Software Engineer** and **AI Enthusiast** with a mission to c
 | **Others (Tools/Platforms)**| <img alt="Vim" width="25px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vim/vim-original.svg"/> <img alt="VS Code" width="25px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg"/> <img alt="IntelliJ" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/> <img alt="Linux" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> <img alt="Bash" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> |
 
 <br></br>
+
 ## 🔥 Featured Projects
 Kindly check the pinned ones. Othersise, you may go through my repos
 
 ---
+
+<br></br>
 
 ## 📈 GitHub Stats
 
@@ -74,6 +89,8 @@ Kindly check the pinned ones. Othersise, you may go through my repos
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bshongwe&layout=compact&theme=radical)](https://github.com/bshongwe)
 
 ---
+
+<br></br>
 
 ## 🌐📫 Let's Connect!  
 Feel free to reach out if you'd like to collaborate or discuss exciting opportunities!  
@@ -88,6 +105,8 @@ Feel free to reach out if you'd like to collaborate or discuss exciting opportun
 
 ---
 
+<br></br>
+
 ## ☕ Support My Work
 
 <a href="https://www.buymeacoffee.com/ebshongwe">
@@ -96,11 +115,15 @@ Feel free to reach out if you'd like to collaborate or discuss exciting opportun
 
 ---
 
+<br></br>
+
 ## 🌟 Quote of the Day  
 *"The best way to predict the future is to invent it."*  
 – Alan Kay
 
 ---
+
+<br></br>
 
 Thank you for visiting my profile! Feel free to check out my repositories and reach out for collaborations! 🚀
 
