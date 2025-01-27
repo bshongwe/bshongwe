@@ -12,7 +12,7 @@
 💼 **Open to:**
 - Project collaborations
 - consultations
-- mentoring and mentorship
+- mentorship
 
 👨‍💻 Feel free to reach out using the contact details below.
 
