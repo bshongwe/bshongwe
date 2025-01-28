@@ -5,7 +5,7 @@
 ![GitHub License](https://img.shields.io/github/license/bshongwe/bshongwe)
 
 # Hi there! 🤓
-**Welcome to my GitHub. I'm Ernest Bhekizwe Shongwe.**
+**Welcome to my GitHub. I'm Ernest Bhekizwe Shongwe...**
 
 🌍 **Location:** Currently in Sandton, Johannesburg, South Africa 🇿🇦  
 
