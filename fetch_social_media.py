@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # fetch_social_media.py
-# will fix this
 
 
 import json
