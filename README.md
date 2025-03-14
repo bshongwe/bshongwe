@@ -25,7 +25,7 @@
 <br></br>
 
 ## 🚀 About Me
-I'm a passionate **Software Engineer** and **AI Enthusiast** with a mission to create impactful digital solutions. With a strong foundation in **full-stack development** and **cloud technologies**, I thrive in building scalable, efficient, and innovative applications.
+I'm a passionate **Software Engineer** and **AI Enthusiast** with a mission to create impactful digital solutions. With a strong foundation in **full-stack development** and **cloud technologies**, I thrive in building scalable, efficient and innovative applications.
 
 ### 🔭 Current Roles:
 - **Backend Engineer** at [Beqy.ai](https://www.beqy.co.za)  
