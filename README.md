@@ -5,7 +5,7 @@
 ![GitHub License](https://img.shields.io/github/license/bshongwe/bshongwe)
 
 # Hi there! 🤓
-**Welcome to my GitHub. I'm Ernest Bhekizwe Shongwe...**
+**Welcome to my GitHub. I am Ernest Bhekizwe Shongwe...**
 
 🌍 **Location:** Currently in Sandton, Johannesburg, South Africa 🇿🇦  
 
@@ -25,17 +25,17 @@
 <br></br>
 
 ## 🚀 About Me
-I'm a passionate **Software Engineer** and **AI Enthusiast** with a mission to create impactful digital solutions. With a strong foundation in **full-stack development** and **cloud technologies**, I thrive in building scalable, efficient and innovative applications.
+I am a passionate **Software Engineer** and **AI Enthusiast** with a mission to create impactful digital solutions. With a strong foundation in **full-stack development** and **cloud technologies**, I thrive in building scalable, efficient and innovative applications, as well as secure CI/CD & ML data pipelines.
 
 ### 🔭 Current Roles:
-- **Backend Engineer** at [Beqy.ai](https://www.beqy.co.za)  
+- **Backend Engineer** at [Beqy.ai](https://beqy.ai)  
 - **Software Engineering Resident** at [Headstarter](https://app.theheadstarter.com/accelerator)  
-- Building cloud solutions at [KalKey](https://kalkey.com/)  
 
 ### 🌟 Fun Facts:
 - 🏅 Valedictorian, [ALX Africa Software Engineering Program](https://www.alxafrica.com)  
 - 📝 Writing about tech on [Medium](https://medium.com/@shongwe.bhekizwe)  
-- 🎨 Combining creativity with code in my [portfolio](http://ernestshong.tech/) 
+- 🎨 Combining creativity with code in my [portfolio](http://ernestshong.tech/)
+- 🚀 An active member of the Google Developer Group (GDG) Johannesburg
 
 ---
 
