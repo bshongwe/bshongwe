@@ -29,8 +29,7 @@ I am a passionate **Software Engineer** and **AI Enthusiast** with a mission to 
 
 ### 🔭 Current Roles:
 - **Backend Engineer** at [Beqy.ai](https://beqy.ai)  
-- **Software Engineering Resident** at [Headstarter](https://app.theheadstarter.com/accelerator)
-- **Software Engineering Grader** at [ALX Africa](https://www.alxafrica.com)
+- **Software Engineering Grader** at [ALX Africa](https://alxafrica.com)
 
 ### 🌟 Fun Facts:
 - 🏅 Valedictorian, [ALX Africa Software Engineering Program](https://www.alxafrica.com)  
