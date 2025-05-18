@@ -28,7 +28,8 @@
 I am a passionate **Software Engineer** and **AI Enthusiast** with a mission to create impactful digital solutions. With a strong foundation in **full-stack development** and **cloud technologies**, I thrive in building scalable, efficient and innovative applications, as well as secure CI/CD & ML data pipelines.
 
 ### 🔭 Current Roles:
-- **CTO & Backend Engineer** at [Beqy.ai](https://beqy.ai)  
+- **CTO & Backend Engineer** at [Beqy.ai](https://beqy.ai)
+- **Intermediate Software Engineer** at [Popping Space](https://popping.co.za/)  
 - **Software Engineering Grader** at [ALX Africa](https://alxafrica.com)
 
 ### 🌟 Fun Facts:
