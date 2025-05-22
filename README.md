@@ -10,7 +10,7 @@
 🌍 **Location:** Currently in Sandton, Johannesburg, South Africa 🇿🇦  
 
 💼 **Open to:**
-- Project collaborations
+- Remote or in-person project collaborations
 - consultations
 - mentorship
 
