@@ -44,14 +44,16 @@ I am a passionate **Software Engineer** and **AI Enthusiast** with a mission to 
 
 ## 🏆 Achievements & Certifications
 - 📜 AWS credentials
+- 📜 IBM credentials
 - 📜 Google Cloud credentials
 - 📜 freeCodeCamp credentials
 
 - **Recognition:**  
   - 🏅 Featured Valedictorian at [ALX Africa](https:www.alxafrica.com) for the ALX Software Engineering Program
   - Contributor to several open-source projects
-  - Built a robust 13-job, multi-tasked CI/CD pipeline at [Beqy.ai](https://beqy.ai) for a Microsoft Azure and AWS deployment
-  - Volunteered for Google Developer Group (GDG) Johannesburg 2025
+  - Built a robust multi-job & multi-level tasked CI/CD pipeline at [Beqy.ai](https://beqy.ai) for a Microsoft Azure and AWS deployment
+  - [Geekulcha](https://www.geekulcha.dev/) 2025 Hackathon participant
+  - Volunteered for [Google Developer Group (GDG) Johannesburg](https://gdg.community.dev/gdg-johannesburg/) 2025
 
 ---
 
