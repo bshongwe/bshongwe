@@ -29,7 +29,6 @@ I am a passionate **Software Engineer** and **AI Enthusiast** with a mission to 
 
 ### 🔭 Current Roles:
 - **CTO & Backend Engineer** at [Beqy.ai](https://beqy.ai)
-- **Intermediate Software Engineer** at [Popping Space](https://popping.co.za/)  
 - **Software Engineering Grader** at [ALX Africa](https://alxafrica.com)
 
 ### 🌟 Fun Facts:
