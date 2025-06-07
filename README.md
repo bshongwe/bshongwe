@@ -32,7 +32,7 @@ I am a passionate **Software Engineer** and **AI Enthusiast** with a mission to 
 - **Software Engineering Grader** at [ALX Africa](https://alxafrica.com)
 
 ### 🌟 Fun Facts:
-- 🏅 Valedictorian, [ALX Africa Software Engineering Program](https://www.alxafrica.com)  
+- 🏅 Valedictorian, [ALX Africa Software Engineering Program](https://www.alxafrica.com/programmes/)  
 - 📝 Writing about tech on [Medium](https://medium.com/@shongwe.bhekizwe)  
 - 🎨 Combining creativity with code in my [portfolio](http://ernestshong.me/)
 - 🚀 An active member of the Google Developer Group (GDG) Johannesburg
