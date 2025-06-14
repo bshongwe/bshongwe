@@ -5,9 +5,9 @@
 ![GitHub License](https://img.shields.io/github/license/bshongwe/bshongwe)
 
 # Hi there! 🤓
-**Welcome to my GitHub. I am <strong>Ernest Bhekizwe Shongwe<strong>...**
+Welcome to my GitHub. I am <strong>Ernest Bhekizwe Shongwe<strong>...
 
-🌍 **Location:** Currently in Randburg, Johannesburg, South Africa 🇿🇦  
+🌍 **Location:** Currently in **Randburg, Johannesburg, South Africa 🇿🇦 **
 
 💼 **Open to:**
 - Remote or in-person project collaborations
@@ -33,7 +33,7 @@ I am a passionate **Software Engineer** and **AI Enthusiast** with a mission to 
 - **Software Engineering Grader** at [ALX Africa](https://alxafrica.com)
 
 ### 🌟 Fun Facts:
-- 🏅 Valedictorian, [ALX Africa Software Engineering Program](https://www.alxafrica.com/programmes/)  
+- 🏅 C17 Valedictorian graduate, [ALX Africa Software Engineering Programme](https://www.alxafrica.com/programmes/)  
 - 📝 Writing about tech on [Medium](https://medium.com/@shongwe.bhekizwe)  
 - 🎨 Combining creativity with code in my [portfolio](http://ernestshong.me/)
 - 🚀 An active member of the Google Developer Group (GDG) Johannesburg
@@ -49,9 +49,9 @@ I am a passionate **Software Engineer** and **AI Enthusiast** with a mission to 
 - 📜 freeCodeCamp credentials
 
 - **Recognition:**  
-  - 🏅 Featured Valedictorian at [ALX Africa](https:www.alxafrica.com) for the ALX Software Engineering Program
+  - 🏅 Featured Valedictorian graduate at [ALX Africa](https:www.alxafrica.com) for the ALX Software Engineering Programme
   - Contributor to several open-source projects
-  - Built a robust multi-job & multi-level tasked CI/CD pipeline at [Beqy.ai](https://beqy.ai) for a Microsoft Azure and AWS deployment
+  - Built a robust multi-job & multi-level tasked CI/CD pipeline for [Beqy.ai](https://beqy.ai) for a Microsoft Azure and AWS deployment
   - [Geekulcha](https://www.geekulcha.dev/) 2025 Hackathon participant
   - Volunteered for [Google Developer Group (GDG) Johannesburg](https://gdg.community.dev/gdg-johannesburg/) 2025
 
