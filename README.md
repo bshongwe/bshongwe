@@ -1,4 +1,4 @@
-![Visits Badge](https://badges.pufler.dev/visits/bshongwe/bshongwe)
+![Visitors](https://komarev.com/ghpvc/?username=bshongwe&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub Repo Stars](https://img.shields.io/github/stars/bshongwe/bshongwe)
 ![GitHub Forks](https://img.shields.io/github/forks/bshongwe/bshongwe)
 ![GitHub Issues](https://img.shields.io/github/issues/bshongwe/bshongwe)
