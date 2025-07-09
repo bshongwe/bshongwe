@@ -25,7 +25,7 @@ Welcome to my GitHub. I am <strong>Ernest Bhekizwe Shongwe</strong>...
 <br></br>
 
 ## 🚀 About Me
-I am a passionate **Software Engineer** and **AI Enthusiast** with a mission to create impactful digital solutions. With a strong foundation in **full-stack development** and **cloud technologies**, I thrive in building scalable, efficient and innovative applications, as well as secure CI/CD & ML data pipelines.
+I am a passionate **Software Engineer** and **AI Enthusiast** with a mission to create impactful digital solutions. With a strong foundation in **full-stack development** and **cloud technologies**. I thrive in building scalable, efficient and innovative applications, as well as secure CI/CD & ML data pipelines.
 
 ### 🔭 Current Roles:
 - **Intermediate Developer** at [Popping Spaces](https://www.popping.co.za)
