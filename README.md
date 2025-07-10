@@ -18,7 +18,6 @@ Welcome to my GitHub. I am <strong>Ernest Bhekizwe Shongwe</strong>...
 
 [![An image of @ernestbshong's Holopin badges, which is a link to view the ir full Holpin profile](https://holopin.me/ernestbshong)](https://holopin.io/@ernestbshong)
 [![Codewars](https://www.codewars.com/users/bshongwe/badges/large)](https://www.codewars.com/users/bshongwe/)
-[![GitHub Streak](https://streak-stats.demolab.com?user=bshongwe)](https://git.io/streak-stats)
 
 ---
 
