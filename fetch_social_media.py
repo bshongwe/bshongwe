@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # fetch_social_media.py
+# Haven't inserted any API keys yet
 
 
 import json
