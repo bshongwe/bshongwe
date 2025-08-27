@@ -7,7 +7,7 @@
 # Hi there! 🤓
 Welcome to my GitHub. I am <strong>Ernest Bhekizwe Shongwe</strong>...
 
-🌍 **Location:** Currently in **Randburg, Johannesburg, South Africa** 🇿🇦 
+🌍 **Location:** Currently in **Johannesburg, South Africa** 🇿🇦 
 
 💼 **Open to:**
 - Remote or in-person project collaborations
@@ -29,7 +29,6 @@ I am a passionate **Software Engineer** and **AI Enthusiast** with a mission to 
 ### 🔭 Current Roles:
 - **Intermediate Developer** at [Popping Spaces](https://www.popping.co.za)
 - **CTO & Backend Engineer** at [Beqy.ai](https://beqy.ai)
-- **Software Engineering Grader** at [ALX Africa](https://alxafrica.com)
 
 ### 🌟 Fun Facts:
 - 🏅 C17 Valedictorian graduate, [ALX Africa Software Engineering Programme](https://www.alxafrica.com/programmes/) in 2024  
@@ -96,10 +95,7 @@ Feel free to reach out if you'd like to collaborate or discuss exciting opportun
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ernest%20Shongwe-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ernest-shongwe)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ernestshong.me-green?style=flat&logo=google-chrome)](http://ernestshong.me/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ernest_b_shong) <br></br>
-**Personal**
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/bshongwe) [![Email](https://img.shields.io/badge/Email-FF0000?style=flat-square&logo=gmail&logoColor=white)](mailto:shongwe.bhekizwe@yahoomail.com) 
-  ||   **Beqy**
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/ernest-beqy) [![Email](https://img.shields.io/badge/Email-FF0000?style=flat-square&logo=gmail&logoColor=white)](mailto:ernest@beqy.co.za)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/bshongwe) [![Email](https://img.shields.io/badge/Email-FF0000?style=flat-square&logo=gmail&logoColor=white)](mailto:shongwe.bhekizwe@gmail.com)
 
 ---
 
