@@ -28,7 +28,6 @@ I am a passionate **Software Engineer** and **AI Enthusiast** with a mission to 
 
 ### 🔭 Current Roles:
 - **Intermediate Developer** at [Popping Spaces](https://www.popping.co.za)
-- **CTO & Backend Engineer** at [Beqy.ai](https://beqy.ai)
 
 ### 🌟 Fun Facts:
 - 🏅 C17 Valedictorian graduate, [ALX Africa Software Engineering Programme](https://www.alxafrica.com/programmes/) in 2024  
@@ -42,6 +41,7 @@ I am a passionate **Software Engineer** and **AI Enthusiast** with a mission to 
 
 ## 🏆 Achievements & Certifications
 - 📜 AWS credentials
+- 📜 Oracle credentials
 - 📜 IBM credentials
 - 📜 Google Cloud credentials
 - 📜 freeCodeCamp credentials
