@@ -13,6 +13,7 @@ Welcome to my GitHub. I am <strong>Ernest Bhekizwe Shongwe</strong>...
 - Remote or in-person project collaborations
 - consultations
 - mentorship
+- upskilling opportunities
 
 👨‍💻 Feel free to reach out using the contact details below.
 
