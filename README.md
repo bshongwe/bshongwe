@@ -83,8 +83,8 @@ Kindly check the pinned ones. Othersise, you may go through my repos
 
 ## 📈 GitHub Stats
 
-[![Ernest's GitHub stats](https://github-readme-stats.vercel.app/api?username=bshongwe&show_icons=true&theme=radical)](https://github.com/bshongwe)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bshongwe&layout=compact&theme=radical)](https://github.com/bshongwe)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bshongwe&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bshongwe&theme=radical)
 
 ---
 
