@@ -15,7 +15,7 @@ Welcome to my GitHub. I am <strong>Ernest Bhekizwe Shongwe</strong>...
 - mentorship
 - upskilling opportunities
 
-👨‍💻 Feel free to reach out using the contact details below.
+👨‍💻 Feel free to reach out using the contact details on this page.
 
 [![An image of @ernestbshong's Holopin badges, which is a link to view the ir full Holpin profile](https://holopin.me/ernestbshong)](https://holopin.io/@ernestbshong)
 [![Codewars](https://www.codewars.com/users/bshongwe/badges/large)](https://www.codewars.com/users/bshongwe/)
