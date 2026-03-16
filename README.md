@@ -10,7 +10,7 @@ Welcome to my GitHub. I am <strong>Ernest Bhekizwe Shongwe</strong>....
 🌍 **Location:** Currently in **Randburg, Johannesburg, South Africa** 🇿🇦 
 
 💼 **Open to:**
-- Remote, on-site and hybrid jobs
+- Remote, on-site and hybrid work
 - consultations
 - mentorship
 
