@@ -71,11 +71,6 @@ I am a passionate **Software Engineer** and **AI Enthusiast** with a mission to 
 | **AI/ML Technologies**      | <img alt="TensorFlow" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/> <img alt="PyTorch" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/> <img alt="Google Colab" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"/> |
 | **Others (Tools/Platforms)**| <img alt="Vim" width="25px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vim/vim-original.svg"/> <img alt="VS Code" width="25px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg"/> <img alt="IntelliJ" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/> <img alt="Linux" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> <img alt="Bash" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> |
 
-<br></br>
-
-## 🔥 Featured Projects
-Kindly check the pinned ones. Othersise, you may go through my repos
-
 ---
 
 <br></br>
