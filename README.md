@@ -49,6 +49,7 @@ I am a passionate **Software Engineer** and **AI Enthusiast** with a mission to 
 - **Recognition:**  
   - 🏅 Featured Valedictorian graduate at [ALX Africa](https:www.alxafrica.com) for the ALX Software Engineering Programme
   - Contributor to several open-source projects
+  - Currently building highend, high peforming backend, distributed systems for [Popping Spaces](https://popping.co.za)
   - Built a robust multi-job & multi-level tasked CI/CD pipeline for [Beqy.ai](https://beqy.ai) for a Microsoft Azure and AWS deployment
   - [Geekulcha](https://www.geekulcha.dev/) 2025 Hackathon participant
   - Volunteered for [Google Developer Group (GDG) Johannesburg](https://gdg.community.dev/gdg-johannesburg/) 2025
