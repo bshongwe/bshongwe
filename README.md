@@ -208,28 +208,12 @@ Designed scalable backend services supporting bookings, payments and vendor mana
 
 <p align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bshongwe&theme=github_dark)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bshongwe&theme=github_dark)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bshongwe&theme=github_dark)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bshongwe&theme=github_dark)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bshongwe&theme=github_dark)
 
 </p>
-
----
-
-# 🤝 Let's Connect
-
-- 🌐 **Portfolio:** https://ernie-dev.vercel.app
-- 💼 **LinkedIn:** https://linkedin.com/in/ernest-shongwe
-- ✍️ **Medium:** https://medium.com/@shongwe.bhekizwe
-- 🏅 **Holopin:** https://holopin.io/@ernestbshong
-- 💻 **Codewars:** https://www.codewars.com/users/bshongwe
-- 📧 **Email:** shongwe.bhekizwe@gmail.com
 
 ---
 
@@ -244,8 +228,17 @@ Designed scalable backend services supporting bookings, payments and vendor mana
 
 ---
 
-⭐ **Thanks for visiting my profile!** If you're interested in backend engineering, distributed systems, cloud-native platforms or AI-powered applications, I'd be happy to connect and collaborate.
+# 🤝 Let's Connect
+
+- 🌐 **Portfolio:** https://ernie-dev.vercel.app
+- 💼 **LinkedIn:** https://linkedin.com/in/ernest-shongwe
+- ✍️ **Medium:** https://medium.com/@shongwe.bhekizwe
+- 🏅 **Holopin:** https://holopin.io/@ernestbshong
+- 💻 **Codewars:** https://www.codewars.com/users/bshongwe
+- 📧 **Email:** shongwe.bhekizwe@gmail.com
+
 ---
+
 
 <!---
 bshongwe/bshongwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
