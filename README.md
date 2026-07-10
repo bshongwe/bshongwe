@@ -1,116 +1,250 @@
-![Visitors](https://komarev.com/ghpvc/?username=bshongwe&label=Profile%20views&color=0e75b6&style=flat)
-![GitHub Repo Stars](https://img.shields.io/github/stars/bshongwe/bshongwe)
-![GitHub Forks](https://img.shields.io/github/forks/bshongwe/bshongwe)
-![GitHub Issues](https://img.shields.io/github/issues/bshongwe/bshongwe)
-![GitHub License](https://img.shields.io/github/license/bshongwe/bshongwe)
+![Profile Views](https://komarev.com/ghpvc/?username=bshongwe&label=Profile%20Views&color=0e75b6&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/bshongwe?style=flat)
+![GitHub Stars](https://img.shields.io/github/stars/bshongwe?style=flat)
 
-# Hi there! 🤓
-Welcome to my GitHub. I am <strong>Ernest Bhekizwe Shongwe</strong>....
+# Hi, I'm Ernest Bhekizwe Shongwe 👋
 
-🌍 **Location:** Currently in **Randburg, Johannesburg, South Africa** 🇿🇦 
+## Backend • Platform • Cloud • AI Engineer
 
-💼 **Open to:**
-- Remote, on-site and hybrid work
-- consultations
-- mentorship
+Building scalable backend systems, cloud-native platforms and AI-powered applications with a focus on **clean architecture**, **distributed systems**, **production reliability** and **secure software engineering**.
 
-👨‍💻 Feel free to reach out using the contact details on this page.
+---
 
-[![An image of @ernestbshong's Holopin badges, which is a link to view the ir full Holpin profile](https://holopin.me/ernestbshong)](https://holopin.io/@ernestbshong)
+## 👨‍💻 About Me
+
+I'm a Software Engineer specialising in **backend engineering**, **platform engineering**, **cloud-native applications**, and **AI-powered systems**.
+
+I enjoy designing distributed systems that are scalable, secure and observable—from REST APIs and microservices to Kubernetes deployments, CI/CD pipelines and production AI services.
+
+Currently building enterprise-grade platforms within fintech and marketplace domains while continually expanding my expertise in distributed systems, Site Reliability Engineering and cloud infrastructure.
+
+---
+
+## 💼 Current Role
+
+### Intermediate Backend Developer
+**Popping Spaces**
+
+Building cloud-native marketplace infrastructure using:
+
+- Ruby on Rails
+- Go
+- Laravel
+- TypeScript
+- Kubernetes
+- Docker
+- AWS
+- gRPC
+- PayFast
+
+### Recent Impact
+
+- 🚀 Reduced backend response times by **45%**
+- ☁️ Increased platform availability from **97% → 99.8%**
+- 💰 Reduced cloud infrastructure costs by **35%**
+- 🛍️ Supporting **600+ active vendors**
+- 📦 Designed scalable backend services for booking, payments and vendor management
+
+---
+
+# 🚀 Engineering Expertise
+
+## Backend Engineering
+
+### Languages & Frameworks
+
+- ASP.NET Core
+- Spring Boot
+- Ruby on Rails
+- Laravel
+- Node.js
+- Go
+- Python
+
+### What I Build
+
+- REST APIs
+- Distributed Systems
+- Microservices
+- Backend Services
+- Authentication & Authorization
+- Secure APIs
+- Payment Platforms
+- Event-Driven Systems
+
+---
+
+## ☁️ Cloud & Platform Engineering
+
+- AWS
+- Microsoft Azure
+- Oracle Cloud Infrastructure
+- Docker
+- Kubernetes
+- Terraform
+- GitHub Actions
+- Azure DevOps
+- ArgoCD
+
+---
+
+## 🗄 Databases
+
+- PostgreSQL
+- SQL Server
+- MongoDB
+- Redis
+- Oracle Database
+
+---
+
+## 📈 Site Reliability Engineering
+
+### Observability
+
+- Prometheus
+- Grafana
+- Datadog
+- AWS CloudWatch
+
+### Focus Areas
+
+- High Availability
+- Monitoring
+- Alerting
+- Performance Optimisation
+- Incident Response
+- CI/CD
+- Infrastructure Automation
+- Production Observability
+
+---
+
+## 🤖 AI Engineering
+
+- OpenAI
+- LangChain
+- Retrieval-Augmented Generation (RAG)
+- Vector Databases
+- Prompt Engineering
+- LLM Fine-Tuning
+- AI-powered APIs
+- Inference Optimisation
+
+---
+
+# 🌟 Featured Projects
+
+## 🏦 Secure Fintech API
+
+**Spring Boot • PostgreSQL • Redis • Docker**
+
+Designed a secure financial API implementing OAuth2 PKCE, JWT authentication, role-based access control, audit logging and Redis caching for scalable financial services.
+
+---
+
+## 📊 Fintech Data Warehouse Platform
+
+**Apache Airflow • dbt • Great Expectations • Terraform**
+
+Built an auditable data warehouse platform with automated ETL pipelines, data validation, infrastructure-as-code and reliable financial reporting.
+
+---
+
+## 🤖 AI Expense Intelligence Platform
+
+**Python • OpenAI • MongoDB**
+
+Designed Retrieval-Augmented Generation (RAG) pipelines using vector databases to reduce query latency by over **50%** while improving response accuracy.
+
+---
+
+## 🧪 Bank-Grade API Test Harness
+
+**WireMock • k6 • Docker • GitHub Actions**
+
+Developed a contract-driven API testing framework supporting rate limiting, idempotency, fault injection and integration testing for financial services.
+
+---
+
+## ☁️ Cloud Marketplace Platform
+
+**Go • Ruby on Rails • Kubernetes • AWS**
+
+Designed scalable backend services supporting bookings, payments and vendor management across a cloud-native marketplace platform serving 600+ vendors.
+
+---
+
+# 📊 Engineering Highlights
+
+- 🚀 Built **20+ production applications**
+- 🤖 Delivered **14+ AI & Machine Learning projects**
+- ☁️ Multi-cloud experience across **AWS, Azure & Oracle Cloud**
+- ⚡ Reduced backend latency by **45%**
+- 📉 Reduced infrastructure costs by **35%**
+- 📈 Increased platform availability to **99.8%**
+- 🏗️ Designed distributed systems using **REST**, **gRPC** and **event-driven architectures**
+- 🏅 **C17 Valedictorian** graduate, ALX Africa Software Engineering Programme (2024)
+
+---
+
+# 🏆 Certifications
+
+### Cloud
+
+- AWS Certified Cloud Practitioner
+- Oracle Cloud Infrastructure Foundations Associate
+- Oracle Data Platform Foundations Associate
+- Oracle AI Foundations Associate
+
+### AI
+
+- Databricks Fundamentals
+- Databricks AI Agent Fundamentals
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bshongwe&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bshongwe&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bshongwe&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bshongwe&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bshongwe&theme=github_dark)
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+- 🌐 **Portfolio:** https://ernie-dev.vercel.app
+- 💼 **LinkedIn:** https://linkedin.com/in/ernest-shongwe
+- ✍️ **Medium:** https://medium.com/@shongwe.bhekizwe
+- 🏅 **Holopin:** https://holopin.io/@ernestbshong
+- 💻 **Codewars:** https://www.codewars.com/users/bshongwe
+- 📧 **Email:** shongwe.bhekizwe@gmail.com
+
+---
+
+[![An image of @ernestbshong's Holopin badges](https://holopin.me/ernestbshong)](https://holopin.io/@ernestbshong)
 [![Codewars](https://www.codewars.com/users/bshongwe/badges/large)](https://www.codewars.com/users/bshongwe/)
 
 ---
 
-<br></br>
+## 💡 Engineering Philosophy
 
-## 🚀 About Me
-I am a passionate **Software Engineer** and **AI Enthusiast** with a mission to create impactful digital solutions. With a strong foundation in **full-stack development** and **cloud technologies**. I thrive in building scalable, efficient and innovative applications, APIs, data warehouses, as well as secure CI/CD & ML data pipelines.
-
-### 🔭 Current Roles:
-- **Intermediate Developer** at [Popping](https://www.popping.co.za)
-
-### 🌟 Fun Facts:
-- 🏅 C17 Valedictorian graduate, [ALX Africa Software Engineering Programme](https://www.alxafrica.com/programmes/) in 2024  
-- 📝 Writing about tech on [Medium](https://medium.com/@shongwe.bhekizwe)  
-- 🎨 Combining creativity with code in my [portfolio](https://ernie-dev.vercel.app)
-- 🚀 An active member of the Google Developer Group (GDG) Johannesburg
+> *"Great software isn't measured by the number of technologies it uses, but by how reliably it solves real-world problems."*
 
 ---
 
-<br></br>
-
-## 🏆 Achievements & Certifications
-- 📜 AWS credentials
-- 📜 Oracle credentials
-- 📜 IBM credentials
-- 📜 Google Cloud credentials
-- 📜 freeCodeCamp credentials
-
-- **Recognition:**  
-  - 🏅 Featured Valedictorian graduate at [ALX Africa](https:www.alxafrica.com) for the ALX Software Engineering Programme
-  - Contributor to several open-source projects
-  - Currently building highend, high peforming backend, distributed systems for [Popping Spaces](https://popping.co.za)
-  - Built a robust multi-job & multi-level tasked CI/CD pipeline for [Beqy.ai](https://beqy.ai) for a Microsoft Azure and AWS deployment
-  - [Geekulcha](https://www.geekulcha.dev/) 2025 Hackathon participant
-  - Volunteered for [Google Developer Group (GDG) Johannesburg](https://gdg.community.dev/gdg-johannesburg/) 2025
-
----
-
-<br></br>
-
-## 🔩 Skills 👨‍🔧
-
-| **Category**               | **Technologies**                                                                                                                                                                                                                             |
-|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Programming Languages**   | <img alt="C" width="25px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg"/> <img alt="C++" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/> <img alt="Java" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> <img alt="JavaScript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> <img alt="Python" width="25px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg"/> <img alt="TypeScript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/> <img alt="Ruby" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg"/> <img alt="PHP" width="25px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg"/> <img alt="Go" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/> <img alt="Rust" width="25px" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/512/external-rust-is-a-multi-paradigm-system-programming-language-logo-filled-tal-revivo.png"/> |
-| **Frontend Development**    | <img alt="HTML" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/> <img alt="CSS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/> <img alt="React" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> <img alt="Bootstrap" width="25px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg"/> <img alt="Next.js" width="25px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original-wordmark.svg"/> <img alt="Angular" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/> <img alt="Vue.js" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/> <img alt="Tailwind CSS" width="25px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg"/> <img alt="Sass" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/> <img alt="jQuery" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/> |
-| **Backend Development**     | <img alt="NodeJS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> <img alt="Express" width="25px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original.svg"/> <img alt="Spring" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/> <img alt="Django" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/> <img alt="Flask" width="25px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flask/flask-original.svg"/> <img alt="Ruby on Rails" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"/> <img alt="Laravel" width="25px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-laravel-is-a-free-open-source-php-web-framework-logo-shadow-tal-revivo.png"/> |
-| **Databases**               | <img alt="MySQL" width="25px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg"/> <img alt="MongoDB" width="25px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg"/> <img alt="PostgreSQL" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> <img alt="SQLite" width="25px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlite/sqlite-original.svg"/> <img alt="Firebase" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/> |
-| **DevOps and Cloud Tech**   | <img alt="AWS" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/> <img alt="Azure" width="25px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original.svg"/> <img alt="Docker" width="25px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg"/> <img alt="Kubernetes" width="25px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kubernetes/kubernetes-plain.svg"/> <img alt="Terraform" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"/> <img alt="Heroku" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"/> <img alt="GCP" width="25px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/googlecloud/googlecloud-original.svg"/> |
-| **Version Control**         | <img alt="Git" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> <img alt="GitHub" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img alt="GitLab" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/> |
-| **Testing Frameworks**      | <img alt="Mocha" width="25px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mocha/mocha-plain.svg"/> <img alt="Jest" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/> <img alt="Selenium" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/> |
-| **AI/ML Technologies**      | <img alt="TensorFlow" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/> <img alt="PyTorch" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/> <img alt="Google Colab" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"/> |
-| **Others (Tools/Platforms)**| <img alt="Vim" width="25px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vim/vim-original.svg"/> <img alt="VS Code" width="25px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg"/> <img alt="IntelliJ" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/> <img alt="Linux" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> <img alt="Bash" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> |
-
----
-
-<br></br>
-
-## 📈 GitHub Stats
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bshongwe&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bshongwe&theme=radical)
-
----
-
-<br></br>
-
-## 🌐📫 Let's Connect!  
-Feel free to reach out if you'd like to collaborate or discuss exciting opportunities!  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ernest%20Shongwe-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ernest-shongwe)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ernestshong.me-green?style=flat&logo=google-chrome)](http://ernestshong.me/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ernest_b_shong) <br></br>
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/bshongwe) [![Email](https://img.shields.io/badge/Email-FF0000?style=flat-square&logo=gmail&logoColor=white)](mailto:shongwe.bhekizwe@gmail.com)
-
----
-
-<br></br>
-
-## ☕ Support My Work
-
-<a href="https://www.buymeacoffee.com/ebshongwe">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="Buy Me A Coffee">
-</a>
-
----
-
-<br></br>
-
-## 🌟 Quote of the Day  
-*"The best way to predict the future is to invent it."*  
-– Alan Kay
-
+⭐ **Thanks for visiting my profile!** If you're interested in backend engineering, distributed systems, cloud-native platforms or AI-powered applications, I'd be happy to connect and collaborate.
 ---
 
 <!---
