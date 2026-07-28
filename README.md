@@ -23,7 +23,6 @@ Currently building enterprise-grade platforms within fintech and marketplace dom
 ## 💼 Current Role
 
 ### Intermediate Backend Developer
-**Popping Spaces**
 
 Building cloud-native marketplace infrastructure using:
 
