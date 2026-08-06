@@ -4,7 +4,7 @@
 
 # Hi, I'm Ernest Bhekizwe Shongwe 👋
 
-## Backend • Platform • Cloud • AI Engineer
+## Fullstack • Backend • Platform • Cloud • AI Engineer
 
 Building scalable backend systems, cloud-native platforms and AI-powered applications with a focus on **clean architecture**, **distributed systems**, **production reliability** and **secure software engineering**.
 
