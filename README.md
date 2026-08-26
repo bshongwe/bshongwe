@@ -26,9 +26,10 @@ Currently building enterprise-grade platforms within fintech and marketplace dom
 
 Building cloud-native marketplace infrastructure using:
 
+- Java | Spring
 - Ruby on Rails
 - Go
-- Laravel
+- Laravel | PHP
 - TypeScript
 - Kubernetes
 - Docker
