@@ -33,9 +33,9 @@ Building cloud-native marketplace infrastructure using:
 - TypeScript
 - Kubernetes
 - Docker
-- AWS
-- gRPC
-- PayFast
+- AWS | Azure | OCI | GCP
+- gRPC | REST | SOAP
+- PayFast | Paystack
 
 ### Recent Impact
 
