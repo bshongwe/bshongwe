@@ -63,7 +63,7 @@ Building cloud-native marketplace infrastructure using:
 
 ### What I Build
 
-- REST APIs
+- REST/ SOAP/ gRPC
 - Distributed Systems
 - Microservices
 - Backend Services
@@ -71,6 +71,7 @@ Building cloud-native marketplace infrastructure using:
 - Secure APIs
 - Payment Platforms
 - Event-Driven Systems
+- Domain-Driven Systems
 
 ---
 
