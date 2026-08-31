@@ -170,9 +170,9 @@ Developed a contract-driven API testing framework supporting rate limiting, idem
 
 ## ☁️ Cloud Marketplace Platform
 
-**Go • Ruby on Rails • Kubernetes • AWS**
+**Go • Ruby on Rails • Kubernetes • AWS • Azure • OCI**
 
-Designed scalable backend services supporting bookings, payments and vendor management across a cloud-native marketplace platform serving 600+ vendors.
+Designed scalable backend services supporting bookings, payments and vendor management across a multicloud-native marketplace platform serving 600+ vendors.
 
 ---
 
