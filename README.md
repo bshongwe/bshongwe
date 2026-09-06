@@ -30,7 +30,7 @@ Building cloud-native marketplace infrastructure using:
 - Ruby on Rails
 - Go
 - Laravel | PHP
-- TypeScript
+- JavaScript | TypeScript | Next.js | React.js
 - Kubernetes
 - Docker
 - AWS | Azure | OCI | GCP
