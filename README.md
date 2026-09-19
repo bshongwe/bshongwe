@@ -22,7 +22,7 @@ Currently building enterprise-grade platforms within fintech and marketplace dom
 
 ## 💼 Current Role
 
-### Intermediate Backend Developer
+### Intermediate Backend Software Engineer
 
 Building cloud-native marketplace infrastructure using:
 
