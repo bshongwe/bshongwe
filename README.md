@@ -14,7 +14,7 @@ Building scalable backend systems, cloud-native platforms and AI-powered applica
 
 I'm a Software Engineer specialising in **backend engineering**, **platform engineering**, **cloud-native applications** and **AI-powered systems**.
 
-I enjoy designing distributed systems that are scalable, secure and observable—from REST APIs and microservices to Kubernetes deployments, CI/CD pipelines and production AI services.
+I enjoy designing distributed systems that are scalable, secure and observable: from REST APIs and microservices to Kubernetes deployments, CI/CD pipelines and production AI services.
 
 Currently building enterprise-grade platforms within fintech and marketplace domains while continually expanding my expertise in distributed systems, Site Reliability Engineering and cloud infrastructure.
 
